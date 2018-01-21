@@ -1,4 +1,6 @@
-##8-puzzle
+# Glossary for "Artificial Intelligence: A Modern Approach"
+
+## 8-puzzle
 ## absolute error
 ## abstraction
 ## abstraction hierarchy
