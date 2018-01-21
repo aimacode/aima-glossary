@@ -132,6 +132,17 @@
 ## Checkers
 ## Chess
 ## Chomsky Normal Form
+
+A grammar is in **Chomsky Normal Form (usually found as CNF)** if all its production rules are in one of the following forms:
+
+```
+A -> BC
+A -> a
+S -> ε
+```
+
+where `S` is the starting symbol and `ε` the symbol for the empty string.
+
 ## circuit verification
 ## Circumscription
 ## Clark Normal Form
