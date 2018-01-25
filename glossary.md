@@ -26,7 +26,9 @@
 ## algorithm
 ## alignment method
 ## alpha-beta
+**alpha** (**&alpha;**) is the value of the best (i.e., highest-value) choice we have found so far at any choice point along the path for MAX and **beta**(**&beta;**) is the value of the best (i.e., lowest-value) choice we have found so far at any choice point along the path for MIN in a standard minimax tree.
 ## alpha-beta pruning
+**alpha—beta pruning** is applied to a standard minimax tree to prune away branches that cannot possibly influence the final minimax decision.
 ## ambient illumination
 ## Ambiguity
 ## ambiguity
@@ -653,8 +655,10 @@
 ## mind-body problem
 ## minimax
 ## minimax decision
+**minimax decision** is the optimal choice which leads MAX to the state with the highest minimax value and leads MIN to lowest minimax value.
 ## minimax search
 ## minimax value
+The **minimax value** of a node in a game tree is the utility (for MAX) of being in the corresponding state, assuming that both players play optimally from there to the end of the game.
 ## minimum description length
 ## minimum slack
 ## minimum-remaining-values
