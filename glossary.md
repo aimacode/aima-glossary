@@ -1,14 +1,12 @@
 # Glossary for *Artificial Intelligence: A Modern Approach*
 
-[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
 
 ## 8-puzzle
 
 **8-puzzle** consists of a 3x3 grid containing 8 numbered tiles and a blank space. A tile adjacent to the blank space can slide into that space. The object is to reach a specified **goal state** from a given **initial state**.
 
-<a name="A"></a>
 # A
-
 
 ## absolute error
 ## abstraction
@@ -42,7 +40,7 @@ An agent's behavior is described by the **agent function** that maps any given p
 
 _Internally,_ the agent function for an artificial agent will be implemented by an **agent program**.
 
-## Agglomerative clustering
+## agglomerative clustering
 ## aggregation
 ## algorithm
 
@@ -64,10 +62,10 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 ## angelic nondeterminism
 ## angelic semantics
 ## answer literal
-## Answer set programming
+## answer set programming
 ## answer sets
 ## aortic coarctation
-## Appearance
+## appearance
 ## appearance model
 ## applicable
 ## apprenticeship learning
@@ -91,6 +89,9 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 ## autonomy
 ## average reward
 ## axiom
+
+# B
+
 ## back-propagation
 
 **back-propagation** is an algorithm used for *supervised learning* of **artificial neural networks** using gradient descent.
@@ -112,7 +113,7 @@ The method calculates the gradient of a given error function with respect to the
 ## batch gradient descent
 ## Bayes' rule
 
-**Baye's rule** describes the probabilty of an event(lets say A) in the light of that a given event B has already occured.
+**Bayes' rule** describes the probabilty of an event(lets say A) in the light of that a given event B has already occured.
 Mathematically Baye's rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 
 ## Bayes-Nash equilibrium
@@ -149,7 +150,7 @@ Mathematically Baye's rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## Bridge
 ## bunch
 
-<a name="C"></a>
+# C
 
 ## Calculative rationality
 ## canonical distribution
