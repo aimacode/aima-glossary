@@ -1,6 +1,9 @@
 # Glossary for "Artificial Intelligence: A Modern Approach"
 
 ## 8-puzzle
+
+**8-puzzle** consists of a 3x3 grid containing 8 numbered tiles and a blank space. A tile adjacent to the blank space can slide into that space. The object is to reach a specified **goal state** from a given **initial state**.
+
 ## absolute error
 ## abstraction
 ## abstraction hierarchy
@@ -16,6 +19,9 @@
 ## adaptive dynamic programming
 ## add list
 ## admissible heuristic
+
+A **heuristic** is a function that scores alternatives at each branching in a search algorithm. An **admissible heuristic** is one that *never overestimates* the cost to reach the goal. Admissible heuristics are **optimistic** in nature as they believe the cost of reaching the goal is less than it actually is. 
+
 ## adversarial search
 ## adversary argument
 ## agent
@@ -33,6 +39,9 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 ## Agglomerative clustering
 ## aggregation
 ## algorithm
+
+**Algorithm** is a set of **unambiguous finite steps** that when carried out on a given problem produces the corresponding outcome and terminates in **finite time**.
+
 ## alignment method
 ## alpha-beta
 **alpha** (**&alpha;**) is the value of the best (i.e., highest-value) choice we have found so far at any choice point along the path for MAX and **beta**(**&beta;**) is the value of the best (i.e., lowest-value) choice we have found so far at any choice point along the path for MIN in a standard minimax tree.
@@ -77,6 +86,10 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 ## average reward
 ## axiom
 ## back-propagation
+
+**back-propagation** is an algorithm used for *supervised learning* of **artificial neural networks** using gradient descent.
+The method calculates the gradient of a given error function with respect to the weights of the network. The "backward" terminology stems because the gradient calculation requires backward propagation through the newtork.
+
 ## backed-up value
 ## Backgammon
 ## background subtraction
@@ -92,6 +105,10 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 ## baseline
 ## batch gradient descent
 ## Bayes' rule
+
+**Baye's rule** describes the probabilty of an event(lets say A) in the light of that a given event B has already occured.
+Mathematically Baye's rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
+
 ## Bayes-Nash equilibrium
 ## Bayesian learning
 ## Bayesian network
