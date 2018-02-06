@@ -52,7 +52,6 @@ An **algorithm** is a set of **unambiguous finite steps** that when carried out 
 ## alpha-beta pruning
 **alpha—beta pruning** is applied to a standard minimax tree to prune away branches that cannot possibly influence the final minimax decision.
 ## ambient illumination
-## Ambiguity
 ## ambiguity
 ## ambiguity aversion
 ## analogical reasoning
@@ -98,7 +97,7 @@ An **algorithm** is a set of **unambiguous finite steps** that when carried out 
 The method calculates the gradient of a given error function with respect to the weights of the network. The "backward" terminology stems because the gradient calculation requires backward propagation through the newtork.
 
 ## backed-up value
-## Backgammon
+## backgammon
 ## background subtraction
 ## backjumping
 ## backmarking
@@ -114,7 +113,7 @@ The method calculates the gradient of a given error function with respect to the
 ## Bayes' rule
 
 **Bayes' rule** describes the probabilty of an event(lets say A) in the light of that a given event B has already occured.
-Mathematically Baye's rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
+Mathematically Bayes' rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 
 ## Bayes-Nash equilibrium
 ## Bayesian learning
@@ -147,7 +146,7 @@ Mathematically Baye's rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## bounds consistent
 ## bounds propagation
 ## branching factor
-## Bridge
+## bridge
 ## bunch
 
 # C
@@ -167,8 +166,8 @@ Mathematically Baye's rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## chain rule
 ## characters
 ## chart
-## Checkers
-## Chess
+## checkers
+## chess
 ## Chomsky Normal Form
 
 A grammar is in **Chomsky Normal Form (usually found as CNF)** if all its production rules are in one of the following forms:
@@ -182,7 +181,7 @@ S -> ε
 where `S` is the starting symbol and `ε` the symbol for the empty string.
 
 ## circuit verification
-## Circumscription
+## circumscription
 ## Clark Normal Form
 ## classification
 ## clause
@@ -195,7 +194,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## coarse-to-fine
 ## coarticulation
 ## coastal navigation
-## Cognitive psychology
+## cognitive psychology
 ## collusion
 ## color constancy
 ## communication
@@ -236,8 +235,8 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## consistency
 ## consistent
 ## constraint language
-## Constraint learning
-## Constraint logic programming
+## constraint learning
+## constraint logic programming
 ## constraint optimization problem
 ## constraint propagation
 ## constraint satisfaction problem
@@ -291,7 +290,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## decision maker
 ## decision network
 ## decision theory
-## Decision theory
+## decision theory
 ## decision tree
 ## declarative
 ## declarative bias
@@ -300,7 +299,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## deductive learning
 ## deep belief networks
 ## deep learning
-## Default logic
+## default logic
 ## definite clause
 ## definite clause grammar
 ## definition of a rational agent
@@ -313,7 +312,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## Dempster-Shafer theory
 ## depth
 ## depth of field
-## Depth-first search
+## depth-first search
 ## depth-limited search
 ## detailed balance
 ## Deterministic
@@ -325,9 +324,9 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## Diophantine equations
 ## direct utility estimation
 ## Dirichlet process
-## Disambiguation
+## disambiguation
 ## discount factor
-## Discrete
+## discrete
 ## discretization
 ## disjoint
 ## disjunction
@@ -360,7 +359,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## effective branching factor
 ## efficient
 ## electric motor
-## Eliminative materialism
+## eliminative materialism
 ## elitism
 ## embodied cognition
 ## emergent behavior
@@ -372,7 +371,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## entropy
 ## environment
 ## environment generator
-## Episodic
+## episodic
 ## epsilon-ball
 ## equality symbol
 ## equilibrium
@@ -381,11 +380,11 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## event
 ## evidence
 ## evidence reversal
-## Evolutionary algorithms
+## evolutionary algorithms
 ## evolutionary psychology
 ## evolutionary strategies
 ## exact cell decomposition
-## Execution
+## execution
 ## execution monitoring
 ## executive layer
 ## exhaustive decomposition
@@ -423,7 +422,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## FIFO queue
 ## filtering
 ## finite horizon
-## First-choice hill climbing
+## first-choice hill climbing
 ## first-order Markov process
 ## fixate
 ## fixed point
@@ -439,17 +438,18 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## framing effect
 ## free space
 ## frequentist
-## Friendly AI
+## friendly AI
 ## frontier
 ## full joint probability distribution
 ## fully observable
 ## functionalism
 ## futility pruning
-## Fuzzy control
-## Fuzzy logic
-## Fuzzy set theory
+## fuzzy control
+## fuzzy logic
+## fuzzy set theory
 
 # G
+
 ## G-set
 ## gain parameter
 ## gain ratio
@@ -463,7 +463,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## generalization
 ## generalization hierarchy
 ## generalization loss
-## Generalized Modus Ponens
+## generalized modus ponens
 ## generating
 ## generator
 ## genetic algorithms
@@ -488,7 +488,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## graph coloring
 ## grasping
 ## greedy agent
-## Greedy best-first search
+## greedy best-first search
 ## grid world
 ## ground term
 ## grounding
@@ -559,15 +559,15 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## infinite
 ## infinite horizon
 ## infix
-## Information extraction
+## information extraction
 ## information gain
 ## information gathering
-## Information retrieval
+## information retrieval
 ## information sets
 ## informed search
 ## inheritance
 ## initial state
-## Input resolution
+## input resolution
 ## inside-outside algorithm
 ## insurance premium
 ## intelligence
@@ -586,7 +586,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## inverted spectrum
 ## IR
 ## irreversible
-## Iterative deepening search
+## iterative deepening search
 ## iterative expansion
 ## iterative-deepening A*
 
@@ -646,10 +646,10 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## LIFO queue
 ## lifting lemma
 ## likelihood
-## Likelihood weighting
+## likelihood weighting
 ## line search
 ## linear Gaussian
-## Linear interpolation smoothing
+## linear interpolation smoothing
 ## linear programming
 ## linear regression
 ## linear resolution
@@ -660,13 +660,12 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## Lisp
 ## literal
 ## local consistency
-## Local search
+## local search
 ## locality
 ## locality-sensitive hash
 ## localization
-## Localization
 ## locally structured
-## Locally weighted regression
+## locally weighted regression
 ## location sensors
 ## locking
 ## log likelihood
@@ -677,7 +676,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## logicist
 ## logistic function
 ## logistic regression
-## Long-distance dependencies
+## long-distance dependencies
 ## LOOCV
 ## loopy path
 ## loosely coupled
@@ -742,11 +741,11 @@ The **minimax value** of a node in a game tree is the utility (for MAX) of being
 ## mixture distribution
 ## mixture of Gaussians
 ## mobile manipulator
-## Modal logic
+## modal logic
 ## model
 ## model checking
 ## model selection
-## Modus Ponens
+## modus ponens
 ## monitoring
 ## monotonic preference
 ## monotonicity
@@ -850,7 +849,7 @@ The **minimax value** of a node in a game tree is the utility (for MAX) of being
 ## parametric model
 ## Pareto dominated
 ## parse tree
-## Parsing
+## parsing
 ## partial assignment
 ## partial information
 ## partial program
@@ -903,11 +902,11 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## ply
 ## pneumatic actuation
 ## point-to-point motion
-## Poker
+## poker
 ## policy
 ## policy evaluation
 ## policy gradient
-## Policy improvement
+## policy improvement
 ## policy iteration
 ## policy loss
 ## policy search
@@ -916,7 +915,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## pose
 ## positive
 ## possibility axiom
-## Possibility theory
+## possibility theory
 ## possible world
 ## post-decision disappointment
 ## pragmatics
@@ -1093,7 +1092,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## sequence form
 ## sequential
 ## sequential Monte Carlo
-## Set of support
+## set of support
 ## set semantics
 ## set-cover problem
 ## set-level
@@ -1110,7 +1109,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## similarity networks
 ## simulated annealing
 ## simultaneous localization and mapping (SLAM)
-## Single agent
+## single agent
 ## singly connected
 ## singular
 ## singularity
@@ -1123,7 +1122,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## sliding window
 ## small-scale learning
 ## smoothing
-## Soccer
+## soccer
 ## social laws
 ## Socratic reasoner
 ## soft margin
@@ -1141,7 +1140,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## specular reflection
 ## specularities
 ## speech act
-## Speech recognition
+## speech recognition
 ## split point
 ## stable
 ## stable model
@@ -1164,7 +1163,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## stochastic
 ## stochastic beam search
 ## stochastic games
-## Stochastic hill climbing
+## stochastic hill climbing
 ## stochastic policy
 ## straight-line distance
 ## strategic form
@@ -1182,7 +1181,6 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## subproblem
 ## substitution
 ## subsumption
-## Subsumption
 ## subsumption architecture
 ## subsumption lattice
 ## successor
@@ -1223,7 +1221,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## thrashing
 ## tiling
 ## tilt
-## Time and tense
+## time and tense
 ## time line
 ## time of flight camera
 ## time to answer
@@ -1274,7 +1272,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## unique action axioms
 ## unique string axiom
 ## unit clause
-## Unit preference
+## unit preference
 ## unit propagation
 ## unit resolution
 ## units function
