@@ -1,10 +1,14 @@
 # Glossary for *Artificial Intelligence: A Modern Approach*
 
-[A](#A) | [B](#B) | [C](#C)
+[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
 ## 8-puzzle
 
 **8-puzzle** consists of a 3x3 grid containing 8 numbered tiles and a blank space. A tile adjacent to the blank space can slide into that space. The object is to reach a specified **goal state** from a given **initial state**.
+
+<a name="A"></a>
+# A
+
 
 ## absolute error
 ## abstraction
