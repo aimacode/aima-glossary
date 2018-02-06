@@ -19,8 +19,17 @@
 ## adversarial search
 ## adversary argument
 ## agent
+
+An **agent** is anything that can be viewed as perceiving its **environment** through **sensors** and acting upon that environment through **actuators**.
+
 ## agent function
+
+An agent's behavior is described by the **agent function** that maps any given percept sequence to an action.
+
 ## agent program
+
+_Internally,_ the agent function for an artificial agent will be implemented by an **agent program**.
+
 ## Agglomerative clustering
 ## aggregation
 ## algorithm
@@ -793,8 +802,14 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## PEAS
 ## peeking
 ## percept
+
+The term **percept** refers to the agent's perceptual inputs at any given instant.
+
 ## percept schema
 ## percept sequence
+
+An agent's **percept sequence** is the complete history of everything the agent has ever perceived.
+
 ## Perception
 ## perception layer
 ## perceptron
