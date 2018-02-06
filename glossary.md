@@ -12,7 +12,7 @@
 ## abstraction
 ## abstraction hierarchy
 ## accessibility relations
-## Action monitoring
+## action monitoring
 ## action schema
 ## action-utility function
 ## actions
@@ -44,7 +44,7 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 ## aggregation
 ## algorithm
 
-**Algorithm** is a set of **unambiguous finite steps** that when carried out on a given problem produces the corresponding outcome and terminates in **finite time**.
+An **algorithm** is a set of **unambiguous finite steps** that when carried out on a given problem produces the corresponding outcome and terminates in **finite time**.
 
 ## alignment method
 ## alpha-beta
@@ -85,7 +85,7 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 ## attribute-based extraction
 ## augmented grammar
 ## authority
-## Automatic assembly sequencing
+## automatic assembly sequencing
 ## autonomy
 ## average reward
 ## axiom
@@ -101,13 +101,13 @@ The method calculates the gradient of a given error function with respect to the
 ## Backgammon
 ## background subtraction
 ## backjumping
-## Backmarking
+## backmarking
 ## backoff model
 ## backpropagation
 ## Backus-Naur form (BNF)
 ## backward-chaining
 ## bag of words
-## Bagging
+## bagging
 ## bang-bang control
 ## baseline
 ## batch gradient descent
@@ -141,9 +141,9 @@ Mathematically Baye's rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## boid
 ## boosting
 ## boundary set
-## Bounded optimality
-## Bounded PlanSAT
-## Bounded rationality
+## bounded optimality
+## bounded PlanSAT
+## bounded rationality
 ## bounds consistent
 ## bounds propagation
 ## branching factor
@@ -152,7 +152,7 @@ Mathematically Baye's rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 
 # C
 
-## Calculative rationality
+## calculative rationality
 ## canonical distribution
 ## cart-pole
 ## cascaded finite-state transducers
@@ -198,7 +198,7 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## Cognitive psychology
 ## collusion
 ## color constancy
-## Communication
+## communication
 ## commutativity
 ## competitive
 ## competitive ratio
@@ -272,6 +272,8 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## cycle cutset
 ## cyclic solution
 ## CYK algorithm
+
+# D
 ## DARPA Grand Challenge
 ## data association
 ## data complexity
@@ -349,6 +351,9 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## dynamic Bayesian network
 ## dynamic programming
 ## dynamic state
+
+# E
+
 ## early stopping
 ## economy
 ## effect
@@ -402,6 +407,8 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## extensive form
 ## externalities
 ## extrinsic
+
+# F
 ## fact
 ## factor
 ## factored frontier
@@ -435,12 +442,14 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## Friendly AI
 ## frontier
 ## full joint probability distribution
-## Fully observable
+## fully observable
 ## functionalism
 ## futility pruning
 ## Fuzzy control
 ## Fuzzy logic
 ## Fuzzy set theory
+
+# G
 ## G-set
 ## gain parameter
 ## gain ratio
@@ -466,8 +475,8 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## Go
 ## goal
 ## goal clauses
-## Goal formulation
-## Goal monitoring
+## goal formulation
+## goal monitoring
 ## goal test
 ## goal-directed reasoning
 ## gold standard
@@ -483,6 +492,9 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## grid world
 ## ground term
 ## grounding
+
+# H
+
 ## Hamming distance
 ## Hansard
 ## haptic feedback
@@ -513,6 +525,9 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## hypothesis
 ## hypothesis prior
 ## hypothesis space
+
+# I
+
 ## i.i.d.
 ## identification in the limit
 ## identity matrix
@@ -574,11 +589,17 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## Iterative deepening search
 ## iterative expansion
 ## iterative-deepening A*
+
+# J
+
 ## join tree
 ## joint action
 ## joint plan
 ## JTMS
 ## justification
+
+# K
+
 ## k-d tree
 ## K-means clustering
 ## Kalman filtering
@@ -596,6 +617,9 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## Known
 ## Kriegspiel
 ## Kullback-Leibler divergence
+
+# L
+
 ## label
 ## Lambert's cosine law
 ## landmarks
@@ -660,6 +684,9 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## loss function
 ## lottery
 ## low-dimensional embedding
+
+# M
+
 ## machine reading
 ## macrops
 ## magic set
@@ -743,6 +770,9 @@ The **minimax value** of a node in a game tree is the utility (for MAX) of being
 ## mutual preferential independence
 ## mutually utility independent
 ## myopic
+
+# N
+
 ## n-armed bandit
 ## n-gram model
 ## natural kind
@@ -751,7 +781,7 @@ The **minimax value** of a node in a game tree is the utility (for MAX) of being
 ## nearest-neighbors regression
 ## negation
 ## negative
-## Neuroscience
+## neuroscience
 ## Newton-Raphson
 ## no-good
 ## no-regret learning
@@ -772,6 +802,9 @@ The **minimax value** of a node in a game tree is the utility (for MAX) of being
 ## NP-complete
 ## NP-completeness
 ## null hypothesis
+
+# O
+
 ## object model
 ## objective function
 ## objectivist
@@ -807,6 +840,9 @@ The **minimax value** of a node in a game tree is the utility (for MAX) of being
 ## outcome
 ## overall intensity
 ## overfitting
+
+# P
+
 ## PAC learning
 ## PageRank
 ## parameter independence
@@ -841,11 +877,11 @@ The term **percept** refers to the agent's perceptual inputs at any given instan
 
 An agent's **percept sequence** is the complete history of everything the agent has ever perceived.
 
-## Perception
+## perception
 ## perception layer
 ## perceptron
 ## perceptron network
-## Perfect rationality
+## perfect rationality
 ## performance element
 ## perplexity
 ## persistence arc
@@ -859,7 +895,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## piano movers
 ## pictorial structure model
 ## PID controller
-## Plan monitoring
+## plan monitoring
 ## plan recognition
 ## planning graph
 ## PlanSAT
@@ -869,7 +905,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## point-to-point motion
 ## Poker
 ## policy
-## Policy evaluation
+## policy evaluation
 ## policy gradient
 ## Policy improvement
 ## policy iteration
@@ -883,9 +919,9 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## Possibility theory
 ## possible world
 ## post-decision disappointment
-## Pragmatics
+## pragmatics
 ## precedence constraints
-## Precision
+## precision
 ## precondition
 ## prediction
 ## preference elicitation
@@ -899,9 +935,8 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## prioritized sweeping
 ## priority queue
 ## prisoner's dilemma
-## Prisoner's Dilemma
 ## probabilistic checkmate
-## Probabilistic Horn abduction
+## probabilistic Horn abduction
 ## probabilistic inference
 ## probability
 ## probability density function
@@ -909,7 +944,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## probability model
 ## probit distribution
 ## problem
-## Problem formulation
+## problem formulation
 ## problem-solving agent
 ## procedural attachment
 ## process
@@ -922,25 +957,31 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## propositionalize
 ## protein design
 ## provably beneficial
-## Pruning
-## Psychological reasoning
+## pruning
+## psychological reasoning
 ## PUMA
 ## pure strategy
 ## pure symbol
+
+# Q
+
 ## Q-learning
 ## QALY
 ## quadratic programming
 ## qualia
 ## qualification problem
-## Qualitative physics
-## Quantification
+## qualitative physics
+## quantification
 ## quantization factor
 ## quasi-logical form
-## Question answering
+## question answering
 ## queue
 ## quiescence search
+
+# R
+
 ## radial basis function
-## Radiometry
+## radiometry
 ## random surfer model
 ## random-restart hill climbing
 ## randomized weighted majority algorithm
@@ -953,7 +994,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## real-time AI
 ## realizable
 ## reasoning
-## Recall
+## recall
 ## reciprocal rank
 ## recognition
 ## recombine
@@ -962,7 +1003,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## rectangular grid
 ## recurrent network
 ## recursive
-## Recursive best-first search
+## recursive best-first search
 ## reduct
 ## reference class
 ## reference controller
@@ -978,7 +1019,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## regularization
 ## reinforcement
 ## reinforcement learning
-## Rejection sampling
+## rejection sampling
 ## relational extraction
 ## relational uncertainty
 ## relative error
@@ -995,7 +1036,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## resolution
 ## resolvent
 ## result set
-## rete
+## Rete algorithm
 ## retrograde
 ## reusable
 ## revelation principle
@@ -1007,7 +1048,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## risk-neutral
 ## risk-seeking
 ## Robocup
-## Robot navigation
+## robot navigation
 ## robotic soccer
 ## robust control theory
 ## ROC curve
@@ -1015,6 +1056,9 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## Roomba
 ## root mean square
 ## rules
+
+# S
+
 ## S-set
 ## sample complexity
 ## sample space
@@ -1032,12 +1076,10 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## schema
 ## Scrabble
 ## sealed-bid second-price auction
-## Search
 ## search
 ## search cost
 ## search tree
 ## segmentation
-## Segmentation
 ## selection
 ## semantic ambiguity
 ## semantics
@@ -1066,8 +1108,8 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## sigmoid perceptron
 ## significance test
 ## similarity networks
-## Simulated annealing
-## simultaneous localization and mapping
+## simulated annealing
+## simultaneous localization and mapping (SLAM)
 ## Single agent
 ## singly connected
 ## singular
@@ -1094,7 +1136,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## spam detection
 ## sparse
 ## sparse model
-## Spatial reasoning
+## spatial reasoning
 ## specialization
 ## specular reflection
 ## specularities
@@ -1111,14 +1153,14 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## state estimation
 ## state space
 ## state-space landscape
-## Static
+## static
 ## stationarity assumption
 ## stationary distribution
 ## stationary process
 ## stemming
 ## step cost
 ## step size
-## Stereo vision
+## stereo vision
 ## stochastic
 ## stochastic beam search
 ## stochastic games
@@ -1154,10 +1196,13 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## synchro drive
 ## synchronic
 ## synchronization
-## Syntactic ambiguity
+## syntactic ambiguity
 ## syntactic theory
 ## syntax
 ## synthesis
+
+# T
+
 ## table lookup
 ## tabu search
 ## tactile sensors
@@ -1208,10 +1253,13 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## truth-revealing
 ## turbo decoding
 ## Turing Test
-## Type A Strategy
-## Type B Strategy
+## type A strategy
+## type B strategy
 ## type constraint
 ## type signature
+
+# U
+
 ## ultraintelligent machine
 ## unary constraint
 ## unbiased
@@ -1222,7 +1270,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## unifier
 ## uniform-cost search
 ## Unimate
-## Uninformed search
+## uninformed search
 ## unique action axioms
 ## unique string axiom
 ## unit clause
@@ -1235,13 +1283,16 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## unknown
 ## unobservable
 ## unrolling
-## Unsupervised clustering
+## unsupervised clustering
 ## unsupervised learning
 ## upper confidence bounds on trees
 ## upper ontology
 ## Urban Challenge
 ## utility
 ## utility independence
+
+# V
+
 ## vague
 ## validation set
 ## validity
@@ -1263,6 +1314,9 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## VLSI layout
 ## vocabulary
 ## Voronoi graph
+
+# W
+
 ## weak AI
 ## weak learning
 ## weight
@@ -1275,4 +1329,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## workspace representation
 ## wrapper
 ## wumpus world
+
+# Z
+
 ## zero-sum games
