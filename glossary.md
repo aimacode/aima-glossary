@@ -1,4 +1,6 @@
-# Glossary for "Artificial Intelligence: A Modern Approach"
+# Glossary for *Artificial Intelligence: A Modern Approach*
+
+[A](#A) | [B](#B) | [C](#C)
 
 ## 8-puzzle
 
@@ -142,6 +144,9 @@ Mathematically Baye's rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## branching factor
 ## Bridge
 ## bunch
+
+<a name="C"></a>
+
 ## Calculative rationality
 ## canonical distribution
 ## cart-pole
