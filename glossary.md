@@ -297,6 +297,11 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## decomposition
 ## deduction theorem
 ## deductive learning
+
+Going from a known
+general rule to a new rule that is logically entailed (and thus nothing new), but is nevertheless useful
+because it allows more efficient processing.  
+
 ## deep belief networks
 ## deep learning
 ## default logic
@@ -551,6 +556,10 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## individuation
 ## induction
 ## inductive learning
+
+Going from a set of specific input-output pairs
+to a (possibly incorrect) general rule  is called **inductive learning**.
+
 ## inductive logic
 ## inductive logic programming
 ## inference
@@ -630,6 +639,10 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## layers
 ## leak node
 ## learning
+
+An agent is **learning** if it improves its
+performance after making observations about the world.
+
 ## learning curve
 ## learning element
 ## learning rate
@@ -1018,6 +1031,10 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## regularization
 ## reinforcement
 ## reinforcement learning
+
+In **reinforcement learning** the agent learns from a series of
+reinforcements-rewards or punishments.
+
 ## rejection sampling
 ## relational extraction
 ## relational uncertainty
@@ -1189,6 +1206,11 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## sum of squared differences
 ## superpixels
 ## supervised learning
+
+In **supervised learning** the agent observes some example
+input-output pairs and learns a function that maps from input to
+output.
+
 ## support vector machine
 ## symmetry-breaking constraint
 ## synchro drive
@@ -1283,6 +1305,10 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## unrolling
 ## unsupervised clustering
 ## unsupervised learning
+
+In **unsupervised learning**
+the agent learns patterns in the input without any explicit feedback. 
+
 ## upper confidence bounds on trees
 ## upper ontology
 ## Urban Challenge
