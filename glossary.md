@@ -1273,6 +1273,7 @@ output.
 ## truth-revealing
 ## turbo decoding
 ## Turing Test
+  The **Turing Test** is a test proposed by Alan Turing in 1950, which is used to determine whether a computer is intelligent by evaluating the "human-ness" of its responses.
 ## type A strategy
 ## type B strategy
 ## type constraint
