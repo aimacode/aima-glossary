@@ -16,9 +16,18 @@
 ## action schema
 ## action-utility function
 ## actions
+
+The things that an agent can do. We model this with a function, **Actions(s)**, that returns a collection of actions
+that the agent can execute in state *s*.
+
 ## activation
 ## activation function
 ## active learning
+
+An active learning agent decided which actions to take in order to guide its learning: it values leearning new things
+as well as reaping immediate rewards from the environment.
+This is in contrast to a passive learning agent, which learns from its observations, but the actions the agent takes are not influenced by the learning process.
+
 ## actor
 ## adaptive dynamic programming
 ## add list
@@ -870,6 +879,10 @@ The **minimax value** of a node in a game tree is the utility (for MAX) of being
 ## particle filtering
 ## partition
 ## passive learning
+
+A passive learning agent learns from its observations, but the actions the agent takes are not influenced by the learning process.
+This is in contrast to an active learning agent, which chooses actions that will facilitate its own learning.
+
 ## path
 ## path planning
 ## paths
