@@ -166,6 +166,7 @@ Mathematically Bayes' rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## cascaded finite-state transducers
 ## case agreement
 ## causal
+## causal link
 ## causal network
 ## center
 ## central limit theorem
@@ -243,6 +244,10 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## consequentialism
 ## consistency
 ## consistent
+## consistent plan
+
+A plan in which there are no cycles in the *ordering constraints* and no conflicts with the **causal links**.  
+
 ## constraint language
 ## constraint learning
 ## constraint logic programming
@@ -853,6 +858,7 @@ The **minimax value** of a node in a game tree is the utility (for MAX) of being
 ## optimization
 ## optimizer's curse
 ## optogenetics
+## ordering constraints
 ## OR-parallelism
 ## orientation
 ## origin function
@@ -974,6 +980,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## procedural attachment
 ## process
 ## product rule
+## progression planning
 ## Prolog
 ## pronunciation model
 ## proof
@@ -1038,6 +1045,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## refutation
 ## regions
 ## regression
+## regression planning
 ## regression to the mean
 ## regret
 ## regular expression
