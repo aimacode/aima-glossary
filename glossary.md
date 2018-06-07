@@ -548,6 +548,9 @@ because it allows more efficient processing.
 # I
 
 ## i.i.d.
+
+**i.i.d.** denotes **independent and identically distributed** random variables. They are defined on the same probability space, have identical probability distribution functions, and are mutually independent.
+
 ## identification in the limit
 ## identity matrix
 ## identity uncertainty
