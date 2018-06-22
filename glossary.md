@@ -288,6 +288,9 @@ A plan in which there are no cycles in the *ordering constraints* and no conflic
 
 # D
 ## DARPA Grand Challenge
+
+The DARPA Grand Challenge is a prize competition for American Autonomous Vehicles,funded by the **Defense Advanced Research Projects Agency**,the most prominent research organization of the United States Department of Defense.   
+
 ## data association
 ## data complexity
 ## data compression
@@ -306,6 +309,9 @@ A plan in which there are no cycles in the *ordering constraints* and no conflic
 ## decision theory
 ## decision theory
 ## decision tree
+
+A decision tree is a construct that uses a tree like graph or model of decisions and their possible consequences,including chance event outcomes,resource costs and utility. 
+
 ## declarative
 ## declarative bias
 ## decomposition
@@ -461,6 +467,9 @@ because it allows more efficient processing.
 ## frontier
 ## full joint probability distribution
 ## fully observable
+
+If an agent's sensors give it access to the complete state of the environment at each point in time,then we say that the task environment is fully observable.
+
 ## functionalism
 ## futility pruning
 ## fuzzy control
@@ -524,6 +533,10 @@ because it allows more efficient processing.
 ## heuristic function
 ## heuristic search
 ## hidden Markov model
+
+A hidden Markov model (or HMM) is a temporal probabilistic model in which the state of the process is described by a *single discrete*
+random variable.
+
 ## hierarchical lookahead
 ## hierarchical reinforcement learning
 ## high-level action
@@ -804,6 +817,9 @@ The **minimax value** of a node in a game tree is the utility (for MAX) of being
 ## natural kind
 ## natural numbers
 ## nearest-neighbor filter
+
+The nearest-neighbour filter, which repeatedly chooses the closest pairing of predicted position and observation and adds that pairing to the assignment.
+
 ## nearest-neighbors regression
 ## negation
 ## negative
@@ -1018,6 +1034,10 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## random-restart hill climbing
 ## randomized weighted majority algorithm
 ## rational agent
+
+A rational agent selects an action that is expected to maximize its performance measure,given the evidence provided by the
+*percept sequence* and whatever built-in knowledge the agent has. 
+
 ## rationalism
 ## rationality
 ## reachable set
@@ -1160,6 +1180,9 @@ reinforcements-rewards or punishments.
 ## sliding window
 ## small-scale learning
 ## smoothing
+
+Smoothing is the process of computing the distribution over past states given evidence up to the present.
+
 ## soccer
 ## social laws
 ## Socratic reasoner
