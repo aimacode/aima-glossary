@@ -22,6 +22,9 @@ that the agent can execute in state *s*.
 
 ## activation
 ## activation function
+A mathematical function that transforms the input or set of inputs received at a neuron to produce an output. 
+Popular examples include the Sigmoid function, Rectificied Linear Units (ReLU) and Hyperbolic Tangent (Tanh)
+
 ## active learning
 
 An active learning agent decided which actions to take in order to guide its learning: it values leearning new things
