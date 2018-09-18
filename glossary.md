@@ -8,7 +8,10 @@
 
 # A
 
-## absolute error
+## absolute error 
+
+Magnitude of the difference between the theoretical value (expected value) and the actual value of a physical quantity. 
+
 ## abstraction
 ## abstraction hierarchy
 ## accessibility relations
