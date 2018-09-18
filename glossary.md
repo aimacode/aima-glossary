@@ -14,6 +14,9 @@ Magnitude of the difference between the theoretical value (expected value) and t
 
 ## abstraction
 ## abstraction hierarchy
+
+It hides the complexity of the system and allows individuals to work on different modules of the hierarchy at the same time. 
+
 ## accessibility relations
 ## action monitoring
 ## action schema
