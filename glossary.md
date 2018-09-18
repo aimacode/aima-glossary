@@ -36,6 +36,9 @@ This is in contrast to a passive learning agent, which learns from its observati
 
 ## actor
 ## adaptive dynamic programming
+
+Also known as Approximate Dynamic Programming; it is a type of Reinforcement Learning where local rewards and transitions depend on unknown parameters - we set an initial control policy and update it until it converges to an optimal control policy. 
+
 ## add list
 ## admissible heuristic
 
