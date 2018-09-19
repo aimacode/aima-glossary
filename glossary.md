@@ -62,7 +62,7 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 ## aggregation
 ## algorithm
 
-An **algorithm** is a set of **unambiguous finite steps** that when carried out on a given problem produces the corresponding outcome and terminates in **finite time**.
+An **algorithm** is a sequence of **unambiguous finite steps** that when carried out on a given problem produce the expected outcome and terminate in **finite time**.
 
 ## alignment method
 ## alpha-beta
