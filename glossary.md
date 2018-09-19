@@ -121,7 +121,13 @@ The method calculates the gradient of a given error function with respect to the
 ## backmarking
 ## backoff model
 ## backpropagation
+
+To minimize the cost function, we need to know how the changes in weights and biases affect the cost function i.e. partial derivatives of the cost function w.r.t every weight and bias in the network; back propagation is a method that allows us to quickly compute all these partial derivatives. 
+
 ## Backus-Naur form (BNF)
+
+It’s a mathematical notation used to describe the syntax of a programming language.  
+
 ## backward-chaining
 ## bag of words
 ## bagging
@@ -333,6 +339,9 @@ because it allows more efficient processing.
 
 ## deep belief networks
 ## deep learning
+
+It is a subfield of Machine Learning that tries to map the working of the human brain in processing data and creating patterns to use in decision making. 
+
 ## default logic
 ## definite clause
 ## definite clause grammar
@@ -347,6 +356,9 @@ because it allows more efficient processing.
 ## depth
 ## depth of field
 ## depth-first search
+
+It is an algorithm which allows us to traverse a graph or a tree data structure; it starts from the root node and traverses as far as possible for each branch before backtracking. (In case of graph data structure, the root node would be any arbitrary node that you select). 
+
 ## depth-limited search
 ## detailed balance
 ## Deterministic
@@ -383,6 +395,9 @@ because it allows more efficient processing.
 ## dynamic backtracking
 ## dynamic Bayesian network
 ## dynamic programming
+
+It’s a method of solving complex problems by breaking them down to sub-problems that can be solved by back tracking from the last stage. It’s popular real-world problems include traveling salesman problem, Fibonacci sequence, knapsack problem, etc. 
+
 ## dynamic state
 
 # E
