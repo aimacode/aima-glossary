@@ -144,6 +144,9 @@ Mathematically Bayes' rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 
 ## Bayes-Nash equilibrium
 ## Bayesian learning
+
+It’s a Machine Learning method which enables us to encode our initial perception of what a model should look like, regardless of what the data tells us. It proves to be very useful when there’s a sparse amount of data to train our model properly. 
+
 ## Bayesian network
 ## beam search
 ## behaviorism
@@ -212,9 +215,15 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## circumscription
 ## Clark Normal Form
 ## classification
+
+Sorting or dividing data into two or more categories on the basis of a distinct feature. 
+
 ## clause
 ## closed-loop
-## clustering
+## clustering 
+
+In terms of Data Science, clustering is the grouping of data instances or objects with similar features and characteristics.   
+
 ## clutter
 ## CMAC
 ## co-NP
