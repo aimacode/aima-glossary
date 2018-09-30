@@ -238,6 +238,9 @@ In terms of Data Science, clustering is the grouping of data instances or object
 ## coarticulation
 ## coastal navigation
 ## cognitive psychology
+
+It is a branch of Psychology which deals with the mental processes involved in obtaining and comprehending new information. Some of the prominent processes include judging, problem solving and remembering. 
+
 ## collusion
 ## color constancy
 ## communication
@@ -300,6 +303,9 @@ A plan in which there are no cycles in the *ordering constraints* and no conflic
 ## convention
 ## convex set
 ## convolution
+
+A mathematical term which basically means merging two signals to form a third signal. 
+
 ## cooperative
 ## coordination
 ## corpus
@@ -327,6 +333,9 @@ The DARPA Grand Challenge is a prize competition for American Autonomous Vehicle
 ## data association
 ## data complexity
 ## data compression
+
+It is the process of encoding data using fewer bits than were used in the original representation so that the data consumes lesser disk space. 
+
 ## data matrix
 ## data mining
 ## data-driven
@@ -367,6 +376,9 @@ It is a subfield of Machine Learning that tries to map the working of the human 
 ## deformable template
 ## degree of belief
 ## degree of freedom
+
+It is a statistics term which represents the number of variables that you are allowed to change for analysis, without any constraint violation.
+
 ## delete list
 ## deliberative layer
 ## demonic nondeterminism
