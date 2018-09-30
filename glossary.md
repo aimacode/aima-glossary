@@ -129,7 +129,7 @@ To minimize the cost function, we need to know how the changes in weights and bi
 
 ## Backus-Naur form (BNF)
 
-It’s a mathematical notation used to describe the syntax of a programming language.  
+A mathematical notation used to describe the syntax of a programming language.  
 
 ## backward-chaining
 ## bag of words
@@ -145,11 +145,11 @@ Mathematically Bayes' rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## Bayes-Nash equilibrium
 ## Bayesian learning
 
-It’s a Machine Learning method which enables us to encode our initial perception of what a model should look like, regardless of what the data tells us. It proves to be very useful when there’s a sparse amount of data to train our model properly. 
+A Machine Learning method which enables us to encode our initial perception of what a model should look like, regardless of what the data tells us. It proves to be very useful when there’s a sparse amount of data to train our model properly. 
 
 ## Bayesian network
 
-It’s a probabilistic graphical model representing a group of variables along with their conditional dependencies through a direct acyclic graph; it is also used to compute the probability distribution for a subset of network variables, provided the distributions or values of any subset of the remaining variables. 
+A probabilistic graphical model representing a group of variables along with their conditional dependencies through a direct acyclic graph; it is also used to compute the probability distribution for a subset of network variables, provided the distributions or values of any subset of the remaining variables. 
 
 ## beam search
 ## behaviorism
@@ -414,7 +414,7 @@ It is an algorithm which allows us to traverse a graph or a tree data structure;
 ## dynamic Bayesian network
 ## dynamic programming
 
-It’s a method of solving complex problems by breaking them down to sub-problems that can be solved by back tracking from the last stage. It’s popular real-world problems include traveling salesman problem, Fibonacci sequence, knapsack problem, etc. 
+A method of solving complex problems by breaking them down to sub-problems that can be solved by back tracking from the last stage. Used in popular real-world problems including traveling salesman problem, Fibonacci sequence, knapsack problem, etc. 
 
 ## dynamic state
 
