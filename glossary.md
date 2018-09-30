@@ -145,6 +145,9 @@ Mathematically Bayes' rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## Bayes-Nash equilibrium
 ## Bayesian learning
 ## Bayesian network
+
+It’s a probabilistic graphical model representing a group of variables along with their conditional dependencies through a direct acyclic graph; it is also used to compute the probability distribution for a subset of network variables, provided the distributions or values of any subset of the remaining variables. 
+
 ## beam search
 ## behaviorism
 ## belief function
@@ -192,6 +195,9 @@ Mathematically Bayes' rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## certainty equivalent
 ## CFG
 ## chain rule
+
+It is a mathematical formula used to compute the derivatives of a composition of two or more functions. 
+
 ## characters
 ## chart
 ## checkers
