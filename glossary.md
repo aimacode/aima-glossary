@@ -123,7 +123,13 @@ The method calculates the gradient of a given error function with respect to the
 
 ## backed-up value
 ## backgammon
+
+Backgammon is one of the oldest known board games. It is a two player game where each player has fifteen pieces (checkers) which move between twenty-four triangles (points) according to the roll of two dice. The objective of the game is to be first to bear off, i.e. move all fifteen checkers off the board.
+
 ## background subtraction
+
+Foreground detection is one of the major tasks in the field of computer vision and image processing whose aim is to detect changes in image sequences. Background subtraction is any technique which allows an image's foreground to be extracted for further processing (object recognition etc.).
+
 ## backjumping
 ## backmarking
 ## backoff model
@@ -142,6 +148,9 @@ A mathematical notation used to describe the syntax of a programming language.
 The **bag of words** model is a simplifying representation used in natural language processing and information retrieval. Also known as the vector space model. In this model, a text is represented as the bag of its words, disregarding grammar and even word order but keeping multiplicity.
 
 ## bagging
+
+Bagging (stands for **B**ootstrap **Agg**regat**ing**) is a way to decrease the variance of your prediction by generating additional data for training from your original dataset using combinations with repetitions to produce multisets of the same cardinality/size as your original data. By increasing the size of your training set you can't improve the model predictive force, but just decrease the variance, narrowly tuning the prediction to expected outcome.
+
 ## bang-bang control
 ## baseline
 ## batch gradient descent
@@ -160,6 +169,9 @@ A Machine Learning method which enables us to encode our initial perception of w
 A probabilistic graphical model representing a group of variables along with their conditional dependencies through a direct acyclic graph; it is also used to compute the probability distribution for a subset of network variables, provided the distributions or values of any subset of the remaining variables. 
 
 ## beam search
+
+Beam search is a heuristic search algorithm that explores a graph by expanding the most promising node in a limited set. Beam search is an optimization of best-first search that reduces its memory requirements. Best-first search is a graph search which orders all partial solutions (states) according to some heuristic. But in beam search, only a predetermined number of best partial solutions are kept as candidates.[1] It is thus a greedy algorithm.
+
 ## behaviorism
 ## belief function
 ## belief propagation
