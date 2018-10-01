@@ -48,6 +48,9 @@ Also known as Approximate Dynamic Programming; it is a type of Reinforcement Lea
 A **heuristic** is a function that scores alternatives at each branching in a search algorithm. An **admissible heuristic** is one that *never overestimates* the cost to reach the goal. Admissible heuristics are **optimistic** in nature as they believe the cost of reaching the goal is less than it actually is. 
 
 ## adversarial search
+
+Traversing a tree data structure to find all possible moves. It is usually used in a two-player game; each available move is represented using gain and loss for an individual player. An important application of it is in zero sum games, as in those games, one players' loss is the other players' gain. 
+
 ## adversary argument
 ## agent
 
@@ -62,6 +65,9 @@ An agent's behavior is described by the **agent function** that maps any given p
 _Internally,_ the agent function for an artificial agent will be implemented by an **agent program**.
 
 ## agglomerative clustering
+
+It is a category of hierarchical clustering which uses a bottom-up approach. All observations start in their own cluster and different pairs of clusters are merged as you move up levels in the hierarchy. Its results are represented using a dendrogram. 
+
 ## aggregation
 ## algorithm
 
