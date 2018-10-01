@@ -535,8 +535,15 @@ If an agent's sensors give it access to the complete state of the environment at
 ## functionalism
 ## futility pruning
 ## fuzzy control
+A fuzzy control system is a control system based on fuzzy logic—a mathematical system that analyzes analog input values in terms of logical variables that take on continuous values between 0 and 1, in contrast to classical or digital logic, which operates on discrete values of either 1 or 0 (true or false, respectively).
+
 ## fuzzy logic
+
+Fuzzy logic is a form of many-valued logic in which the truth values of variables may be any real number between 0 and 1. It is employed to handle the concept of partial truth, where the truth value may range between completely true and completely false.
+
 ## fuzzy set theory
+
+Fuzzy sets (aka uncertain sets) are somewhat like sets whose elements have degrees of membership. In classical set theory, the membership of elements in a set is assessed in binary terms according to a bivalent condition — an element either belongs or does not belong to the set. By contrast, fuzzy set theory permits the gradual assessment of the membership of elements in a set; this is described with the aid of a membership function valued in the real unit interval [0, 1].
 
 # G
 
@@ -545,6 +552,9 @@ If an agent's sensors give it access to the complete state of the environment at
 ## gain ratio
 ## gait
 ## game theory
+
+Game theory is the study of mathematical models of strategic interaction between rational decision-makers. It has applications in all fields of social science, as well as in logic and computer science. Originally, it addressed zero-sum games, in which one person's gains result in losses for the other participants. Today, game theory applies to a wide range of behavioral relations, and is now an umbrella term for the science of logical decision making in humans, animals, and computers.
+
 ## game tree
 ## Gaussian distribution
 ## Gaussian error model
