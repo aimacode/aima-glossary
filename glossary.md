@@ -1426,15 +1426,27 @@ the agent learns patterns in the input without any explicit feedback.
 
 ## vague
 ## validation set
+
+A part of the dataset that is used to tune the parameters of a machine learning model. It can also be used to determine a stopping point for the back-propagation algorithm.
+
 ## validity
 ## value
 ## value alignment
 ## vanishing point
+
+A vanishing point of a function means the function has a zero at the point or on the set.
+
 ## variable
+
+A variable is a symbol on whose value a function, polynomial, etc., depends.
+
 ## variational approximation
 ## variational parameters
 ## VCG
 ## vector
+
+A vector is formally defined as an element of a vector space R^n. A vector is given by n coordinates and can be specified as (A_1,A_2,...,A_n).
+
 ## vector field histograms
 ## vehicle interface layer
 ## verification
