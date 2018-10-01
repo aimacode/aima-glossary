@@ -90,7 +90,11 @@ An **algorithm** is a sequence of **unambiguous finite steps** that when carried
 ## applicable
 ## apprenticeship learning
 ## architecture
+
 ## arity
+
+In logic, mathematics, and computer science, the arity of a function or operation is the number of arguments or operands that the function takes.
+
 ## artificial life
 ## ascending-bid
 ## Asilomar Principles
@@ -132,7 +136,11 @@ To minimize the cost function, we need to know how the changes in weights and bi
 A mathematical notation used to describe the syntax of a programming language.  
 
 ## backward-chaining
+
 ## bag of words
+
+The **bag of words** model is a simplifying representation used in natural language processing and information retrieval. Also known as the vector space model. In this model, a text is represented as the bag of its words, disregarding grammar and even word order but keeping multiplicity.
+
 ## bagging
 ## bang-bang control
 ## baseline
@@ -1456,3 +1464,6 @@ the agent learns patterns in the input without any explicit feedback.
 # Z
 
 ## zero-sum games
+
+In game theory and economic theory, a **zero-sum game** is a mathematical representation of a situation in which each participant's gain or loss of utility is exactly balanced by the losses or gains of the utility of the other participants. If the total gains of the participants are added up and the total losses are subtracted, they will sum to zero.
+
