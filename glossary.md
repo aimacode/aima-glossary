@@ -191,7 +191,13 @@ Beam search is a heuristic search algorithm that explores a graph by expanding t
 ## bluff
 ## body
 ## boid
+
+Boids is an artificial life program, developed by Craig Reynolds in 1986, which simulates the flocking behaviour of birds. His paper on this topic was published in 1987 in the proceedings of the ACM SIGGRAPH conference. The name "boid" corresponds to a shortened version of "bird-oid object", which refers to a bird-like object.
+
 ## boosting
+
+Boosting is a two-step approach, where one first uses subsets of the original data to produce a series of averagely performing models and then "boosts" their performance by combining them together using a particular cost function (=majority vote). Unlike bagging, in the classical boosting the subset creation is not random and depends upon the performance of the previous models: every new subsets contains the elements that were (likely to be) misclassified by previous models.
+
 ## boundary set
 ## bounded optimality
 ## bounded PlanSAT
@@ -207,6 +213,9 @@ Beam search is a heuristic search algorithm that explores a graph by expanding t
 ## calculative rationality
 ## canonical distribution
 ## cart-pole
+
+A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The system is controlled by applying a force to the cart in the left or right direction. The pendulum starts upright, and the goal is to prevent it from falling over. A reward is provided for every timestep that the pole remains upright.
+
 ## cascaded finite-state transducers
 ## case agreement
 ## causal
@@ -214,6 +223,9 @@ Beam search is a heuristic search algorithm that explores a graph by expanding t
 ## causal network
 ## center
 ## central limit theorem
+
+The central limit theorem (CLT) establishes that, in some situations, when independent random variables are added, their properly normalized sum tends toward a normal distribution (informally a "bell curve") even if the original variables themselves are not normally distributed.
+
 ## certainty effect
 ## certainty equivalent
 ## CFG
@@ -225,6 +237,9 @@ It is a mathematical formula used to compute the derivatives of a composition of
 ## chart
 ## checkers
 ## chess
+
+Chess is a two-player strategy board game played on a chessboard, a checkered gameboard with 64 squares arranged in an 8×8 grid. Play does not involve hidden information. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. Each of the six piece types moves differently, with the most powerful being the queen and the least powerful the pawn. The objective is to checkmate the opponent's king by placing it under an inescapable threat of capture. To this end, a player's pieces are used to attack and capture the opponent's pieces, while supporting each other.
+
 ## Chomsky Normal Form
 
 A grammar is in **Chomsky Normal Form (usually found as CNF)** if all its production rules are in one of the following forms:
