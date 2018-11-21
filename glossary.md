@@ -115,6 +115,9 @@ In logic, mathematics, and computer science, the arity of a function or operatio
 ## assignment
 ## associative memory
 ## asymptotic analysis
+
+It is a Mathematical method of describing limiting behavior by using an input bound function, which means that the algorithm would run in constant time if no output was given, as the rest of the factors contributing to the computation are constant.
+
 ## asymptotic bounded optimality
 ## ATMS
 ## atom
@@ -131,6 +134,8 @@ It is the character of being independent and self-governing in vital as well as 
 
 ## average reward
 ## axiom
+
+In Mathematics or logics, an axiom is a statement or a proposition which is assumed to be true to serve as a starting point for further arguments and reasoning. Example of an axiom: “Nothing can both be and not be at the same time and in the same respect”.
 
 # B
 
