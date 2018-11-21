@@ -13,6 +13,9 @@
 Magnitude of the difference between the theoretical value (expected value) and the actual value of a physical quantity. 
 
 ## abstraction
+
+Abstraction is selecting data from a larger pool to show only the relevant details to the object.
+
 ## abstraction hierarchy
 
 It hides the complexity of the system and allows individuals to work on different modules of the hierarchy at the same time. 
@@ -28,6 +31,7 @@ that the agent can execute in state *s*.
 
 ## activation
 ## activation function
+
 A mathematical function that transforms the input or set of inputs received at a neuron to produce an output. 
 Popular examples include the Sigmoid function, Rectificied Linear Units (ReLU) and Hyperbolic Tangent (Tanh)
 
@@ -79,7 +83,11 @@ An **algorithm** is a sequence of **unambiguous finite steps** that when carried
 ## alpha-beta pruning
 **alpha—beta pruning** is applied to a standard minimax tree to prune away branches that cannot possibly influence the final minimax decision.
 ## ambient illumination
+
 ## ambiguity
+
+It is the state of being uncertain or doubtful.
+
 ## ambiguity aversion
 ## analogical reasoning
 ## anchoring effect
@@ -116,7 +124,11 @@ In logic, mathematics, and computer science, the arity of a function or operatio
 ## augmented grammar
 ## authority
 ## automatic assembly sequencing
+
 ## autonomy
+
+It is the character of being independent and self-governing in vital as well as non-vital situaltions.
+
 ## average reward
 ## axiom
 
@@ -185,7 +197,11 @@ Beam search is a heuristic search algorithm that explores a graph by expanding t
 ## belief state
 ## Bellman equation
 ## Bellman update
+
 ## benchmarking
+
+Benchmarking is to measure the quality of something for the purposes of comparison or evaluation.
+
 ## best-first search
 ## biconditional
 ## binary constraint
@@ -240,6 +256,9 @@ The central limit theorem (CLT) establishes that, in some situations, when indep
 It is a mathematical formula used to compute the derivatives of a composition of two or more functions. 
 
 ## characters
+
+A character is any letter, number, space, punctuation mark, or a symbol.
+
 ## chart
 ## checkers
 ## chess
