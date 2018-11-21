@@ -91,6 +91,9 @@ It is the state of being uncertain or doubtful.
 ## ambiguity aversion
 ## analogical reasoning
 ## anchoring effect
+
+It is a type of cognitive bias which makes people focus on the first piece of information (the "anchor") that was given to them, to make decisions. To explain this with an example; when buying a product if you're told a high price by the seller, your mind estimates the worth of that product as that initial/anchor price you're told, and then when you're offered a discount on it, you are more inclined to buy it thinking that you're getting it for cheap. 
+
 ## And-Elimination
 ## AND-parallelism
 ## angelic nondeterminism
@@ -99,11 +102,16 @@ It is the state of being uncertain or doubtful.
 ## answer set programming
 ## answer sets
 ## aortic coarctation
-## appearance
-## appearance model
-## applicable
+
+It is a Medical term which means the narrowing of aorta - the largest artery in the body which starts from the heart.
+
 ## apprenticeship learning
+
+It is the process of learning by observing the demonstration of an expert. In a way, it is a form of supervised learning where the training data would be the tasks performed by the expert. 
+
 ## architecture
+
+It is a very broad term; however, it is generally used to refer to the structure of the buildings and other constructions.
 
 ## arity
 
@@ -114,6 +122,9 @@ In logic, mathematics, and computer science, the arity of a function or operatio
 ## Asilomar Principles
 ## assignment
 ## associative memory
+
+In terms of Psychology, it is the type of memory which allows us to remember things by finding links between, apparently, unrelated things. To explain with an example; remembering someones' name by the dress they wore the first time you met them. Clearly, these two things seem completely unrelated. 
+
 ## asymptotic analysis
 
 It is a Mathematical method of describing limiting behavior by using an input bound function, which means that the algorithm would run in constant time if no output was given, as the rest of the factors contributing to the computation are constant.
