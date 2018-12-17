@@ -8,9 +8,9 @@
 
 # A
 
-## absolute error 
+## absolute error
 
-Magnitude of the difference between the theoretical value (expected value) and the actual value of a physical quantity. 
+Magnitude of the difference between the theoretical value (expected value) and the actual value of a physical quantity.
 
 ## abstraction
 
@@ -18,7 +18,7 @@ Abstraction is selecting data from a larger pool to show only the relevant detai
 
 ## abstraction hierarchy
 
-It hides the complexity of the system and allows individuals to work on different modules of the hierarchy at the same time. 
+It hides the complexity of the system and allows individuals to work on different modules of the hierarchy at the same time.
 
 ## accessibility relations
 ## action monitoring
@@ -32,7 +32,7 @@ that the agent can execute in state *s*.
 ## activation
 ## activation function
 
-A mathematical function that transforms the input or set of inputs received at a neuron to produce an output. 
+A mathematical function that transforms the input or set of inputs received at a neuron to produce an output.
 Popular examples include the Sigmoid function, Rectificied Linear Units (ReLU) and Hyperbolic Tangent (Tanh)
 
 ## active learning
@@ -44,16 +44,16 @@ This is in contrast to a passive learning agent, which learns from its observati
 ## actor
 ## adaptive dynamic programming
 
-Also known as Approximate Dynamic Programming; it is a type of Reinforcement Learning where local rewards and transitions depend on unknown parameters - we set an initial control policy and update it until it converges to an optimal control policy. 
+Also known as Approximate Dynamic Programming; it is a type of Reinforcement Learning where local rewards and transitions depend on unknown parameters - we set an initial control policy and update it until it converges to an optimal control policy.
 
 ## add list
 ## admissible heuristic
 
-A **heuristic** is a function that scores alternatives at each branching in a search algorithm. An **admissible heuristic** is one that *never overestimates* the cost to reach the goal. Admissible heuristics are **optimistic** in nature as they believe the cost of reaching the goal is less than it actually is. 
+A **heuristic** is a function that scores alternatives at each branching in a search algorithm. An **admissible heuristic** is one that *never overestimates* the cost to reach the goal. Admissible heuristics are **optimistic** in nature as they believe the cost of reaching the goal is less than it actually is.
 
 ## adversarial search
 
-Traversing a tree data structure to find all possible moves. It is usually used in a two-player game; each available move is represented using gain and loss for an individual player. An important application of it is in zero sum games, as in those games, one players' loss is the other players' gain. 
+Traversing a tree data structure to find all possible moves. It is usually used in a two-player game; each available move is represented using gain and loss for an individual player. An important application of it is in zero sum games, as in those games, one players' loss is the other players' gain.
 
 ## adversary argument
 ## agent
@@ -70,7 +70,7 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 
 ## agglomerative clustering
 
-It is a category of hierarchical clustering which uses a bottom-up approach. All observations start in their own cluster and different pairs of clusters are merged as you move up levels in the hierarchy. Its results are represented using a dendrogram. 
+It is a category of hierarchical clustering which uses a bottom-up approach. All observations start in their own cluster and different pairs of clusters are merged as you move up levels in the hierarchy. Its results are represented using a dendrogram.
 
 ## aggregation
 ## algorithm
@@ -92,7 +92,7 @@ It is the state of being uncertain or doubtful.
 ## analogical reasoning
 ## anchoring effect
 
-It is a type of cognitive bias which makes people focus on the first piece of information (the "anchor") that was given to them, to make decisions. To explain this with an example; when buying a product if you're told a high price by the seller, your mind estimates the worth of that product as that initial/anchor price you're told, and then when you're offered a discount on it, you are more inclined to buy it thinking that you're getting it for cheap. 
+It is a type of cognitive bias which makes people focus on the first piece of information (the "anchor") that was given to them, to make decisions. To explain this with an example; when buying a product if you're told a high price by the seller, your mind estimates the worth of that product as that initial/anchor price you're told, and then when you're offered a discount on it, you are more inclined to buy it thinking that you're getting it for cheap.
 
 ## And-Elimination
 ## AND-parallelism
@@ -107,7 +107,7 @@ It is a Medical term which means the narrowing of aorta - the largest artery in 
 
 ## apprenticeship learning
 
-It is the process of learning by observing the demonstration of an expert. In a way, it is a form of supervised learning where the training data would be the tasks performed by the expert. 
+It is the process of learning by observing the demonstration of an expert. In a way, it is a form of supervised learning where the training data would be the tasks performed by the expert.
 
 ## architecture
 
@@ -123,7 +123,7 @@ In logic, mathematics, and computer science, the arity of a function or operatio
 ## assignment
 ## associative memory
 
-In terms of Psychology, it is the type of memory which allows us to remember things by finding links between, apparently, unrelated things. To explain with an example; remembering someones' name by the dress they wore the first time you met them. Clearly, these two things seem completely unrelated. 
+In terms of Psychology, it is the type of memory which allows us to remember things by finding links between, apparently, unrelated things. To explain with an example; remembering someones' name by the dress they wore the first time you met them. Clearly, these two things seem completely unrelated.
 
 ## asymptotic analysis
 
@@ -169,7 +169,7 @@ Foreground detection is one of the major tasks in the field of computer vision a
 ## backoff model
 ## backpropagation
 
-To minimize the cost function, we need to know how the changes in weights and biases affect the cost function i.e. partial derivatives of the cost function w.r.t every weight and bias in the network; back propagation is a method that allows us to quickly compute all these partial derivatives. 
+To minimize the cost function, we need to know how the changes in weights and biases affect the cost function i.e. partial derivatives of the cost function w.r.t every weight and bias in the network; back propagation is a method that allows us to quickly compute all these partial derivatives.
 
 ## Backus-Naur form (BNF)
 
@@ -196,11 +196,11 @@ Mathematically Bayes' rule can be described as :-  **P(A|B) = P(A)P(B|A)/P(B)**
 ## Bayes-Nash equilibrium
 ## Bayesian learning
 
-A Machine Learning method which enables us to encode our initial perception of what a model should look like, regardless of what the data tells us. It proves to be very useful when there’s a sparse amount of data to train our model properly. 
+A Machine Learning method which enables us to encode our initial perception of what a model should look like, regardless of what the data tells us. It proves to be very useful when there’s a sparse amount of data to train our model properly.
 
 ## Bayesian network
 
-A probabilistic graphical model representing a group of variables along with their conditional dependencies through a direct acyclic graph; it is also used to compute the probability distribution for a subset of network variables, provided the distributions or values of any subset of the remaining variables. 
+A probabilistic graphical model representing a group of variables along with their conditional dependencies through a direct acyclic graph; it is also used to compute the probability distribution for a subset of network variables, provided the distributions or values of any subset of the remaining variables.
 
 ## beam search
 
@@ -269,7 +269,7 @@ The central limit theorem (CLT) establishes that, in some situations, when indep
 ## CFG
 ## chain rule
 
-It is a mathematical formula used to compute the derivatives of a composition of two or more functions. 
+It is a mathematical formula used to compute the derivatives of a composition of two or more functions.
 
 ## characters
 
@@ -298,11 +298,11 @@ where `S` is the starting symbol and `ε` the symbol for the empty string.
 ## Clark Normal Form
 ## classification
 
-Sorting or dividing data into two or more categories on the basis of a distinct feature. 
+Sorting or dividing data into two or more categories on the basis of a distinct feature.
 
 ## clause
 ## closed-loop
-## clustering 
+## clustering
 
 In terms of Data Science, clustering is the grouping of data instances or objects with similar features and characteristics.   
 
@@ -315,7 +315,7 @@ In terms of Data Science, clustering is the grouping of data instances or object
 ## coastal navigation
 ## cognitive psychology
 
-It is a branch of Psychology which deals with the mental processes involved in obtaining and comprehending new information. Some of the prominent processes include judging, problem solving and remembering. 
+It is a branch of Psychology which deals with the mental processes involved in obtaining and comprehending new information. Some of the prominent processes include judging, problem solving and remembering.
 
 ## collusion
 ## color constancy
@@ -380,7 +380,7 @@ A plan in which there are no cycles in the *ordering constraints* and no conflic
 ## convex set
 ## convolution
 
-A mathematical term which basically means merging two signals to form a third signal. 
+A mathematical term which basically means merging two signals to form a third signal.
 
 ## cooperative
 ## coordination
@@ -410,7 +410,7 @@ The DARPA Grand Challenge is a prize competition for American Autonomous Vehicle
 ## data complexity
 ## data compression
 
-It is the process of encoding data using fewer bits than were used in the original representation so that the data consumes lesser disk space. 
+It is the process of encoding data using fewer bits than were used in the original representation so that the data consumes lesser disk space.
 
 ## data matrix
 ## data mining
@@ -428,7 +428,7 @@ It is the process of encoding data using fewer bits than were used in the origin
 ## decision theory
 ## decision tree
 
-A decision tree is a construct that uses a tree like graph or model of decisions and their possible consequences,including chance event outcomes,resource costs and utility. 
+A decision tree is a construct that uses a tree like graph or model of decisions and their possible consequences,including chance event outcomes,resource costs and utility.
 
 ## declarative
 ## declarative bias
@@ -443,7 +443,7 @@ because it allows more efficient processing.
 ## deep belief networks
 ## deep learning
 
-It is a subfield of Machine Learning that tries to map the working of the human brain in processing data and creating patterns to use in decision making. 
+It is a subfield of Machine Learning that tries to map the working of the human brain in processing data and creating patterns to use in decision making.
 
 ## default logic
 ## definite clause
@@ -463,7 +463,7 @@ It is a statistics term which represents the number of variables that you are al
 ## depth of field
 ## depth-first search
 
-It is an algorithm which allows us to traverse a graph or a tree data structure; it starts from the root node and traverses as far as possible for each branch before backtracking. (In case of graph data structure, the root node would be any arbitrary node that you select). 
+It is an algorithm which allows us to traverse a graph or a tree data structure; it starts from the root node and traverses as far as possible for each branch before backtracking. (In case of graph data structure, the root node would be any arbitrary node that you select).
 
 ## depth-limited search
 ## detailed balance
@@ -502,7 +502,7 @@ It is an algorithm which allows us to traverse a graph or a tree data structure;
 ## dynamic Bayesian network
 ## dynamic programming
 
-A method of solving complex problems by breaking them down to sub-problems that can be solved by back tracking from the last stage. Used in popular real-world problems including traveling salesman problem, Fibonacci sequence, knapsack problem, etc. 
+A method of solving complex problems by breaking them down to sub-problems that can be solved by back tracking from the last stage. Used in popular real-world problems including traveling salesman problem, Fibonacci sequence, knapsack problem, etc.
 
 ## dynamic state
 
@@ -1179,7 +1179,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## rational agent
 
 A rational agent selects an action that is expected to maximize its performance measure,given the evidence provided by the
-*percept sequence* and whatever built-in knowledge the agent has. 
+*percept sequence* and whatever built-in knowledge the agent has.
 
 ## rationalism
 ## rationality
@@ -1190,6 +1190,9 @@ A rational agent selects an action that is expected to maximize its performance 
 ## realizable
 ## reasoning
 ## recall
+
+**Recall** is a measure of performance used alongside ***Precision***, ***Accuracy*** and ***F-score***. It is defined as the ratio of the *true positives* to the *summation of true positives and false negatives*.
+
 ## reciprocal rank
 ## recognition
 ## recombine
@@ -1318,19 +1321,27 @@ reinforcements-rewards or punishments.
 ## situation calculus
 ## skeletonization
 ## Skolemization
+
+**Skolemization** is the process of removing the existential quantifiers by elimination. This is similar to the inference rule ***Existential Elimination*** where an inference involving sentence *a*, variable *v* and constant *k* can be made provided *k* does not occur anywhere in the knowledge base.
+
 ## slack
 ## slant
 ## sliding window
 ## small-scale learning
 ## smoothing
 
-Smoothing is the process of computing the distribution over past states given evidence up to the present.
+**Smoothing** is the process of computing the distribution over past states given evidence up to the present.
 
 ## soccer
 ## social laws
 ## Socratic reasoner
 ## soft margin
 ## softmax function
+
+The **softmax function** is a mathematical function often used for classification tasks. This function calculates the probability distribution of one class, over all the available classes. It's formula is given as:
+
+*F(X) = exp(X) / summation(exp(X))* with the summation being over all the classes.
+
 ## software architecture
 ## sokoban
 ## solution
@@ -1495,7 +1506,7 @@ output.
 ## unsupervised learning
 
 In **unsupervised learning**
-the agent learns patterns in the input without any explicit feedback. 
+the agent learns patterns in the input without any explicit feedback.
 
 ## upper confidence bounds on trees
 ## upper ontology
@@ -1559,4 +1570,3 @@ A vector is formally defined as an element of a vector space R^n. A vector is gi
 ## zero-sum games
 
 In game theory and economic theory, a **zero-sum game** is a mathematical representation of a situation in which each participant's gain or loss of utility is exactly balanced by the losses or gains of the utility of the other participants. If the total gains of the participants are added up and the total losses are subtracted, they will sum to zero.
-
