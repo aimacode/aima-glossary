@@ -1112,6 +1112,10 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## pragmatics
 ## precedence constraints
 ## precision
+
+**Precision** is a performance measure often used to describe some model, alongside other measures like *accuracy*, *recall* etc. Precision can be thought of as an efficiency measure of a model. It is given as:  
+***Precision = True Positives / (True Positives + False Positives)***
+
 ## precondition
 ## prediction
 ## preference elicitation
@@ -1258,6 +1262,9 @@ reinforcements-rewards or punishments.
 ## rollout
 ## Roomba
 ## root mean square
+
+A mathematical formula, **root mean square** is often used as an error estimator. It is described as the root of the summation of all the squared errors.
+
 ## rules
 
 # S
@@ -1355,7 +1362,10 @@ The **softmax function** is a mathematical function often used for classificatio
 ## specular reflection
 ## specularities
 ## speech act
-## speech recognition
+## Speech Recognition
+
+**Speech recognition** is the process of analyzing audio and ***recognizing*** parts related to speech within the audio file. This process of ***recognition*** may involve simply identifying the speech part, gender identification and also as complex as identifying the words spoken when given an audio. This field often overlaps into the domain of artificial intelligence and machine learning.
+
 ## split point
 ## stable
 ## stable model
