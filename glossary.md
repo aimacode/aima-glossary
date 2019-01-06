@@ -21,6 +21,7 @@ Abstraction is selecting data from a larger pool to show only the relevant detai
 It hides the complexity of the system and allows individuals to work on different modules of the hierarchy at the same time.
 
 ## accessibility relations
+In modal logic, an accessibility relation R is a binary relation such that R⊆ W×W where W is a set of possible worlds. The accessibility relation determines for each world w ∈ W which worlds ẃ are accessible from w.
 ## action monitoring
 ## action schema
 ## action-utility function
