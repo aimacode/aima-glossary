@@ -90,6 +90,9 @@ It is the state of being uncertain or doubtful.
 
 ## ambiguity aversion
 ## analogical reasoning
+
+A representational mapping from a known “source” domain into a novel “target” domain, analogy provides a basic mechanism for effectively connecting a reasoner's past and present experience.
+
 ## anchoring effect
 
 It is a type of cognitive bias which makes people focus on the first piece of information (the "anchor") that was given to them, to make decisions. To explain this with an example; when buying a product if you're told a high price by the seller, your mind estimates the worth of that product as that initial/anchor price you're told, and then when you're offered a discount on it, you are more inclined to buy it thinking that you're getting it for cheap.
