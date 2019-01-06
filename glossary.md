@@ -122,9 +122,13 @@ It is a type of cognitive bias which makes people focus on the first piece of in
 
 ## And-Elimination
 
+In propositional logic, conjunction elimination (also called and elimination, ∧ elimination, or simplification0 is a valid immediate inference, argument form and rule of inference which makes the inference that, if the conjunction A and B is true, then A is true, and B is true. The rule makes it possible to shorten longer proofs by deriving one of the conjuncts of a conjunction on a line by itself.
+
 ## AND-parallelism
 
 ## angelic nondeterminism
+
+A notional ability always to choose the most favorable option, in constant time. With angelic non-determinism, any problem in NP would be solvable in polynomial time.
 
 ## angelic semantics
 
@@ -157,8 +161,14 @@ In logic, mathematics, and computer science, the arity of a function or operatio
 Artificial life (often abbreviated ALife or A-Life) is a field of study wherein researchers examine systems related to natural life, its processes, and its evolution, through the use of simulations with computer models, robotics, and biochemistry.
 
 ## ascending-bid
+
+Bidders place bids of progressively higher amounts, aiming to outbid each other. The bidder who places the highest bid by the end of the auction wins.
+
 ## Asilomar Principles
+The Asilomar Conference on Beneficial AI was a conference organized by the Future of Life Institute, held January 5-8, 2017, at the Asilomar Conference Grounds in California. More than 100 thought leaders and researches in economics, law, ethics, and philosophy met at the conference, to address and formulate principles of beneficial AI. Its outcome was the creation of a set of guidelines for AI research – the 23 Asilomar AI Principles.
+
 ## assignment
+
 ## associative memory
 
 In terms of Psychology, it is the type of memory which allows us to remember things by finding links between, apparently, unrelated things. To explain with an example; remembering someones' name by the dress they wore the first time you met them. Clearly, these two things seem completely unrelated.
@@ -168,13 +178,27 @@ In terms of Psychology, it is the type of memory which allows us to remember thi
 It is a Mathematical method of describing limiting behavior by using an input bound function, which means that the algorithm would run in constant time if no output was given, as the rest of the factors contributing to the computation are constant.
 
 ## asymptotic bounded optimality
+
 ## ATMS
+
+Assumption-Based Truth Maintenance System (ATMS) allows to maintain and reason with a number of simultaneous, possibly incompatible, current sets of assumption.
+
 ## atom
+
+An atom is the smallest constituent unit of ordinary matter that has the properties of a chemical element.
+
 ## atomic representation
+
 ## atomic sentence
+
 ## attribute-based extraction
+
 ## augmented grammar
+
+Any grammar whose productions are augmented with conditions expressed using features.
+
 ## authority
+
 ## automatic assembly sequencing
 
 ## autonomy
@@ -182,6 +206,7 @@ It is a Mathematical method of describing limiting behavior by using an input bo
 It is the character of being independent and self-governing in vital as well as non-vital situaltions.
 
 ## average reward
+
 ## axiom
 
 In Mathematics or logics, an axiom is a statement or a proposition which is assumed to be true to serve as a starting point for further arguments and reasoning. Example of an axiom: “Nothing can both be and not be at the same time and in the same respect”.
