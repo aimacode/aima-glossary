@@ -1261,9 +1261,12 @@ reinforcements-rewards or punishments.
 ## ROC curve
 ## rollout
 ## Roomba
-## root mean square
+## Root Mean Square (RMS)
 
-A mathematical formula, **root mean square** is often used as an error estimator. It is described as the root of the summation of all the squared errors.
+A mathematical formula, **root mean square** is often used as an error estimator. It is described as the root of the summation of all the squared errors. The formula is given as:
+<br>***square_root[summation(a1^2 + a2^2 + ...)], where a1, a2...are some entities***
+<br> In RMS error estimation, the above squared entities are replaced with squared errors.
+
 
 ## rules
 
