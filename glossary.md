@@ -21,16 +21,24 @@ Abstraction is selecting data from a larger pool to show only the relevant detai
 It hides the complexity of the system and allows individuals to work on different modules of the hierarchy at the same time.
 
 ## accessibility relations
+
 In modal logic, an accessibility relation R is a binary relation such that R⊆ W×W where W is a set of possible worlds. The accessibility relation determines for each world w ∈ W which worlds ẃ are accessible from w.
+
 ## action monitoring
+
+Checking the preconditions of each action as it is executed, rather than checking the preconditions of the entire remaining plan.
+
 ## action schema
+
 ## action-utility function
+
 ## actions
 
 The things that an agent can do. We model this with a function, **Actions(s)**, that returns a collection of actions
 that the agent can execute in state *s*.
 
 ## activation
+
 ## activation function
 
 A mathematical function that transforms the input or set of inputs received at a neuron to produce an output.
@@ -43,11 +51,13 @@ as well as reaping immediate rewards from the environment.
 This is in contrast to a passive learning agent, which learns from its observations, but the actions the agent takes are not influenced by the learning process.
 
 ## actor
+
 ## adaptive dynamic programming
 
 Also known as Approximate Dynamic Programming; it is a type of Reinforcement Learning where local rewards and transitions depend on unknown parameters - we set an initial control policy and update it until it converges to an optimal control policy.
 
 ## add list
+
 ## admissible heuristic
 
 A **heuristic** is a function that scores alternatives at each branching in a search algorithm. An **admissible heuristic** is one that *never overestimates* the cost to reach the goal. Admissible heuristics are **optimistic** in nature as they believe the cost of reaching the goal is less than it actually is.
@@ -57,6 +67,7 @@ A **heuristic** is a function that scores alternatives at each branching in a se
 Traversing a tree data structure to find all possible moves. It is usually used in a two-player game; each available move is represented using gain and loss for an individual player. An important application of it is in zero sum games, as in those games, one players' loss is the other players' gain.
 
 ## adversary argument
+
 ## agent
 
 An **agent** is anything that can be viewed as perceiving its **environment** through **sensors** and acting upon that environment through **actuators**.
@@ -74,34 +85,57 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 It is a category of hierarchical clustering which uses a bottom-up approach. All observations start in their own cluster and different pairs of clusters are merged as you move up levels in the hierarchy. Its results are represented using a dendrogram.
 
 ## aggregation
+
 ## algorithm
 
 An **algorithm** is a sequence of **unambiguous finite steps** that when carried out on a given problem produce the expected outcome and terminate in **finite time**.
 
 ## alignment method
+
 ## alpha-beta
+
 **alpha** (**&alpha;**) is the value of the best (i.e., highest-value) choice we have found so far at any choice point along the path for MAX and **beta**(**&beta;**) is the value of the best (i.e., lowest-value) choice we have found so far at any choice point along the path for MIN in a standard minimax tree.
+
 ## alpha-beta pruning
+
 **alpha—beta pruning** is applied to a standard minimax tree to prune away branches that cannot possibly influence the final minimax decision.
+
 ## ambient illumination
+
+Light that is already present in a scene, before any additional lighting is added. It usually refers to natural light.
 
 ## ambiguity
 
 It is the state of being uncertain or doubtful.
 
 ## ambiguity aversion
+
+Ambiguity aversion (also known as uncertainty aversion) is a preference for known risks over unknown risks.
+
 ## analogical reasoning
+
+Analogical reasoning is any type of thinking that relies upon an analogy. An analogical argument is an explicit representation of a form of analogical reasoning that cites accepted similarities between two systems to support the conclusion that some further similarity exists.
+
 ## anchoring effect
 
 It is a type of cognitive bias which makes people focus on the first piece of information (the "anchor") that was given to them, to make decisions. To explain this with an example; when buying a product if you're told a high price by the seller, your mind estimates the worth of that product as that initial/anchor price you're told, and then when you're offered a discount on it, you are more inclined to buy it thinking that you're getting it for cheap.
 
 ## And-Elimination
+
 ## AND-parallelism
+
 ## angelic nondeterminism
+
 ## angelic semantics
+
 ## answer literal
+
 ## answer set programming
+
+Answer set programming (ASP) is a form of declarative programming oriented towards difficult (primarily NP-hard) search problems. It is based on the stable model (answer set) semantics of logic programming.
+
 ## answer sets
+
 ## aortic coarctation
 
 It is a Medical term which means the narrowing of aorta - the largest artery in the body which starts from the heart.
@@ -119,6 +153,9 @@ It is a very broad term; however, it is generally used to refer to the structure
 In logic, mathematics, and computer science, the arity of a function or operation is the number of arguments or operands that the function takes.
 
 ## artificial life
+
+Artificial life (often abbreviated ALife or A-Life) is a field of study wherein researchers examine systems related to natural life, its processes, and its evolution, through the use of simulations with computer models, robotics, and biochemistry.
+
 ## ascending-bid
 ## Asilomar Principles
 ## assignment
