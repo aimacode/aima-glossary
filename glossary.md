@@ -21,8 +21,18 @@ Abstraction is selecting data from a larger pool to show only the relevant detai
 It hides the complexity of the system and allows individuals to work on different modules of the hierarchy at the same time.
 
 ## accessibility relations
+
+The accessibility relation is a relationship between two 'possible worlds'. A possible world is a possible situation.
+
 ## action monitoring
 ## action schema
+
+It consists of three parts:
+• The ***action name and parameter list*** - to identify the action
+• The ***precondition*** - stating what must be true in a state before the action can be
+executed.
+• The ***effect ***- describing how the state changes when the action is executed
+
 ## action-utility function
 ## actions
 
@@ -73,6 +83,9 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 It is a category of hierarchical clustering which uses a bottom-up approach. All observations start in their own cluster and different pairs of clusters are merged as you move up levels in the hierarchy. Its results are represented using a dendrogram.
 
 ## aggregation
+
+**Aggregation** is the process of combining several numerical values into a single representative value, and an aggregation function performs this operation.
+
 ## algorithm
 
 An **algorithm** is a sequence of **unambiguous finite steps** that when carried out on a given problem produce the expected outcome and terminate in **finite time**.
