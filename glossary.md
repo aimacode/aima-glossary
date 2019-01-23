@@ -209,6 +209,9 @@ Beam search is a heuristic search algorithm that explores a graph by expanding t
 ## behaviorism
 ## belief function
 ## belief propagation
+
+**Belief propagation**, also known as sum-product message passing, is a message-passing algorithm for performing inference on graphical models, such as Bayesian networks and Markov random fields. It calculates the marginal distribution for each unobserved node, conditional on any observed nodes.
+
 ## belief revision
 ## belief state
 ## Bellman equation
