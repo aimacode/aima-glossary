@@ -165,6 +165,9 @@ Backgammon is one of the oldest known board games. It is a two player game where
 Foreground detection is one of the major tasks in the field of computer vision and image processing whose aim is to detect changes in image sequences. Background subtraction is any technique which allows an image's foreground to be extracted for further processing (object recognition etc.).
 
 ## backjumping
+
+**Backjumping** is a technique that reduces search space, therefore increasing efficiency. While backtracking always goes up one level in the search tree when all values for a variable have been tested, backjumping may go up more levels.
+
 ## backmarking
 ## backoff model
 ## backpropagation
@@ -176,6 +179,8 @@ To minimize the cost function, we need to know how the changes in weights and bi
 A mathematical notation used to describe the syntax of a programming language.  
 
 ## backward-chaining
+
+**Backward chaining** is the logical process of inferring unknown truths from known conclusions by moving backward from a solution to determine the initial conditions and rules.
 
 ## bag of words
 
