@@ -21,15 +21,24 @@ Abstraction is selecting data from a larger pool to show only the relevant detai
 It hides the complexity of the system and allows individuals to work on different modules of the hierarchy at the same time.
 
 ## accessibility relations
+
+In modal logic, an accessibility relation R is a binary relation such that R⊆ W×W where W is a set of possible worlds. The accessibility relation determines for each world w ∈ W which worlds ẃ are accessible from w.
+
 ## action monitoring
+
+Checking the preconditions of each action as it is executed, rather than checking the preconditions of the entire remaining plan.
+
 ## action schema
+
 ## action-utility function
+
 ## actions
 
 The things that an agent can do. We model this with a function, **Actions(s)**, that returns a collection of actions
 that the agent can execute in state *s*.
 
 ## activation
+
 ## activation function
 
 A mathematical function that transforms the input or set of inputs received at a neuron to produce an output.
@@ -42,11 +51,13 @@ as well as reaping immediate rewards from the environment.
 This is in contrast to a passive learning agent, which learns from its observations, but the actions the agent takes are not influenced by the learning process.
 
 ## actor
+
 ## adaptive dynamic programming
 
 Also known as Approximate Dynamic Programming; it is a type of Reinforcement Learning where local rewards and transitions depend on unknown parameters - we set an initial control policy and update it until it converges to an optimal control policy.
 
 ## add list
+
 ## admissible heuristic
 
 A **heuristic** is a function that scores alternatives at each branching in a search algorithm. An **admissible heuristic** is one that *never overestimates* the cost to reach the goal. Admissible heuristics are **optimistic** in nature as they believe the cost of reaching the goal is less than it actually is.
@@ -56,6 +67,7 @@ A **heuristic** is a function that scores alternatives at each branching in a se
 Traversing a tree data structure to find all possible moves. It is usually used in a two-player game; each available move is represented using gain and loss for an individual player. An important application of it is in zero sum games, as in those games, one players' loss is the other players' gain.
 
 ## adversary argument
+
 ## agent
 
 An **agent** is anything that can be viewed as perceiving its **environment** through **sensors** and acting upon that environment through **actuators**.
@@ -73,37 +85,59 @@ _Internally,_ the agent function for an artificial agent will be implemented by 
 It is a category of hierarchical clustering which uses a bottom-up approach. All observations start in their own cluster and different pairs of clusters are merged as you move up levels in the hierarchy. Its results are represented using a dendrogram.
 
 ## aggregation
+
 ## algorithm
 
 An **algorithm** is a sequence of **unambiguous finite steps** that when carried out on a given problem produce the expected outcome and terminate in **finite time**.
 
 ## alignment method
+
 ## alpha-beta
+
 **alpha** (**&alpha;**) is the value of the best (i.e., highest-value) choice we have found so far at any choice point along the path for MAX and **beta**(**&beta;**) is the value of the best (i.e., lowest-value) choice we have found so far at any choice point along the path for MIN in a standard minimax tree.
+
 ## alpha-beta pruning
+
 **alpha—beta pruning** is applied to a standard minimax tree to prune away branches that cannot possibly influence the final minimax decision.
+
 ## ambient illumination
+
+Light that is already present in a scene, before any additional lighting is added. It usually refers to natural light.
 
 ## ambiguity
 
 It is the state of being uncertain or doubtful.
 
 ## ambiguity aversion
-## analogical reasoning
 
-A representational mapping from a known “source” domain into a novel “target” domain, analogy provides a basic mechanism for effectively connecting a reasoner's past and present experience.
+Ambiguity aversion (also known as uncertainty aversion) is a preference for known risks over unknown risks.
+
+## analogical reasoning
 
 ## anchoring effect
 
 It is a type of cognitive bias which makes people focus on the first piece of information (the "anchor") that was given to them, to make decisions. To explain this with an example; when buying a product if you're told a high price by the seller, your mind estimates the worth of that product as that initial/anchor price you're told, and then when you're offered a discount on it, you are more inclined to buy it thinking that you're getting it for cheap.
 
 ## And-Elimination
+
+In propositional logic, conjunction elimination (also called and elimination, ∧ elimination, or simplification0 is a valid immediate inference, argument form and rule of inference which makes the inference that, if the conjunction A and B is true, then A is true, and B is true. The rule makes it possible to shorten longer proofs by deriving one of the conjuncts of a conjunction on a line by itself.
+
 ## AND-parallelism
+
 ## angelic nondeterminism
+
+A notional ability always to choose the most favorable option, in constant time. With angelic non-determinism, any problem in NP would be solvable in polynomial time.
+
 ## angelic semantics
+
 ## answer literal
+
 ## answer set programming
+
+Answer set programming (ASP) is a form of declarative programming oriented towards difficult (primarily NP-hard) search problems. It is based on the stable model (answer set) semantics of logic programming.
+
 ## answer sets
+
 ## aortic coarctation
 
 It is a Medical term which means the narrowing of aorta - the largest artery in the body which starts from the heart.
@@ -121,9 +155,18 @@ It is a very broad term; however, it is generally used to refer to the structure
 In logic, mathematics, and computer science, the arity of a function or operation is the number of arguments or operands that the function takes.
 
 ## artificial life
+
+Artificial life (often abbreviated ALife or A-Life) is a field of study wherein researchers examine systems related to natural life, its processes, and its evolution, through the use of simulations with computer models, robotics, and biochemistry.
+
 ## ascending-bid
+
+Bidders place bids of progressively higher amounts, aiming to outbid each other. The bidder who places the highest bid by the end of the auction wins.
+
 ## Asilomar Principles
+The Asilomar Conference on Beneficial AI was a conference organized by the Future of Life Institute, held January 5-8, 2017, at the Asilomar Conference Grounds in California. More than 100 thought leaders and researches in economics, law, ethics, and philosophy met at the conference, to address and formulate principles of beneficial AI. Its outcome was the creation of a set of guidelines for AI research – the 23 Asilomar AI Principles.
+
 ## assignment
+
 ## associative memory
 
 In terms of Psychology, it is the type of memory which allows us to remember things by finding links between, apparently, unrelated things. To explain with an example; remembering someones' name by the dress they wore the first time you met them. Clearly, these two things seem completely unrelated.
@@ -133,13 +176,27 @@ In terms of Psychology, it is the type of memory which allows us to remember thi
 It is a Mathematical method of describing limiting behavior by using an input bound function, which means that the algorithm would run in constant time if no output was given, as the rest of the factors contributing to the computation are constant.
 
 ## asymptotic bounded optimality
+
 ## ATMS
+
+Assumption-Based Truth Maintenance System (ATMS) allows to maintain and reason with a number of simultaneous, possibly incompatible, current sets of assumption.
+
 ## atom
+
+An atom is the smallest constituent unit of ordinary matter that has the properties of a chemical element.
+
 ## atomic representation
+
 ## atomic sentence
+
 ## attribute-based extraction
+
 ## augmented grammar
+
+Any grammar whose productions are augmented with conditions expressed using features.
+
 ## authority
+
 ## automatic assembly sequencing
 
 ## autonomy
@@ -147,6 +204,7 @@ It is a Mathematical method of describing limiting behavior by using an input bo
 It is the character of being independent and self-governing in vital as well as non-vital situaltions.
 
 ## average reward
+
 ## axiom
 
 In Mathematics or logics, an axiom is a statement or a proposition which is assumed to be true to serve as a starting point for further arguments and reasoning. Example of an axiom: “Nothing can both be and not be at the same time and in the same respect”.
@@ -1115,6 +1173,10 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## pragmatics
 ## precedence constraints
 ## precision
+
+**Precision** is a performance measure often used to describe some model, alongside other measures like *accuracy*, *recall* etc. Precision can be thought of as an efficiency measure of a model. It is given as:  
+***Precision = True Positives / (True Positives + False Positives)***
+
 ## precondition
 ## prediction
 ## preference elicitation
@@ -1260,7 +1322,13 @@ reinforcements-rewards or punishments.
 ## ROC curve
 ## rollout
 ## Roomba
-## root mean square
+## Root Mean Square (RMS)
+
+A mathematical formula, **root mean square** is often used as an error estimator. It is described as the root of the summation of all the squared errors. The formula is given as:
+<br>***square_root[summation(a1^2 + a2^2 + ...)], where a1, a2...are some entities***
+<br> In RMS error estimation, the above squared entities are replaced with squared errors.
+
+
 ## rules
 
 # S
@@ -1358,7 +1426,10 @@ The **softmax function** is a mathematical function often used for classificatio
 ## specular reflection
 ## specularities
 ## speech act
-## speech recognition
+## Speech Recognition
+
+**Speech recognition** is the process of analyzing audio and ***recognizing*** parts related to speech within the audio file. This process of ***recognition*** may involve simply identifying the speech part, gender identification and also as complex as identifying the words spoken when given an audio. This field often overlaps into the domain of artificial intelligence and machine learning.
+
 ## split point
 ## stable
 ## stable model
