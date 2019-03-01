@@ -30,6 +30,8 @@ Checking the preconditions of each action as it is executed, rather than checkin
 
 ## action schema
 
+It is a way to represent the variable-free (ground) actions.
+
 ## action-utility function
 
 ## actions
@@ -38,6 +40,8 @@ The things that an agent can do. We model this with a function, **Actions(s)**, 
 that the agent can execute in state *s*.
 
 ## activation
+
+It means to start or intitate a process.
 
 ## activation function
 
@@ -381,6 +385,9 @@ In terms of Data Science, clustering is the grouping of data instances or object
 It is a branch of Psychology which deals with the mental processes involved in obtaining and comprehending new information. Some of the prominent processes include judging, problem solving and remembering.
 
 ## collusion
+
+It is an unfair or illegal agreement by two or more persons trying to manipulate the values.
+
 ## color constancy
 ## communication
 ## commutativity
