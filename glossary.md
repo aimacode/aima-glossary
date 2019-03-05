@@ -52,8 +52,6 @@ This is in contrast to a passive learning agent, which learns from its observati
 
 ## actor
 
-
-
 ## adaptive dynamic programming
 
 Also known as Approximate Dynamic Programming; it is a type of Reinforcement Learning where local rewards and transitions depend on unknown parameters - we set an initial control policy and update it until it converges to an optimal control policy.
@@ -286,6 +284,8 @@ Beam search is a heuristic search algorithm that explores a graph by expanding t
 Benchmarking is to measure the quality of something for the purposes of comparison or evaluation.
 
 ## best-first search
+
+Best-first search is a search technique of combining the advantages of both depth-first and breadth-first into a single search.
 ## biconditional
 ## binary constraint
 ## binary resolution
