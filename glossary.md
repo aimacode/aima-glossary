@@ -286,6 +286,7 @@ Benchmarking is to measure the quality of something for the purposes of comparis
 ## best-first search
 
 Best-first search is a search technique of combining the advantages of both depth-first and breadth-first into a single search.
+ 
 ## biconditional
 ## binary constraint
 ## binary resolution
@@ -293,6 +294,9 @@ Best-first search is a search technique of combining the advantages of both dept
 ## binocular stereopsis
 ## biological naturalism
 ## blocks world
+
+Blocks world is an example domainin which there is a flat surface on which blocks can be placed .There are anumber of square blocks, all of same size. They can be stacked upon one another. There is a robotic arm that can manipulate the blocks.
+
 ## bluff
 ## body
 ## boid
