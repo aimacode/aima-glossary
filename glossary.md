@@ -52,6 +52,8 @@ This is in contrast to a passive learning agent, which learns from its observati
 
 ## actor
 
+
+
 ## adaptive dynamic programming
 
 Also known as Approximate Dynamic Programming; it is a type of Reinforcement Learning where local rewards and transitions depend on unknown parameters - we set an initial control policy and update it until it converges to an optimal control policy.
@@ -125,6 +127,8 @@ It is a type of cognitive bias which makes people focus on the first piece of in
 In propositional logic, conjunction elimination (also called and elimination, ∧ elimination, or simplification0 is a valid immediate inference, argument form and rule of inference which makes the inference that, if the conjunction A and B is true, then A is true, and B is true. The rule makes it possible to shorten longer proofs by deriving one of the conjuncts of a conjunction on a line by itself.
 
 ## AND-parallelism
+
+In parallel logic programming, AND-parallelism is one of the two types of of parallelism. In AND-parallelism, the portions of conjunctive goal are pursued in parallel.
 
 ## angelic nondeterminism
 
