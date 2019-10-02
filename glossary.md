@@ -236,7 +236,7 @@ To minimize the cost function, we need to know how the changes in weights and bi
 
 ## Backus-Naur form (BNF)
 
-A mathematical notation used to describe the syntax of a programming language.  
+A mathematical notation used to describe the syntax of a programming language.
 
 ## backward-chaining
 
@@ -305,7 +305,11 @@ Boosting is a two-step approach, where one first uses subsets of the original da
 ## bounded rationality
 ## bounds consistent
 ## bounds propagation
+
 ## branching factor
+
+In tree data structures, the **branching factor** is defined as the number of children nodes at each node. In cases where the branching factor is not constant, an average is calcluated.
+
 ## bridge
 ## bunch
 
@@ -367,7 +371,7 @@ Sorting or dividing data into two or more categories on the basis of a distinct 
 ## closed-loop
 ## clustering
 
-In terms of Data Science, clustering is the grouping of data instances or objects with similar features and characteristics.   
+In terms of Data Science, clustering is the grouping of data instances or objects with similar features and characteristics.
 
 ## clutter
 ## CMAC
@@ -421,7 +425,7 @@ It is a branch of Psychology which deals with the mental processes involved in o
 ## consistent
 ## consistent plan
 
-A plan in which there are no cycles in the *ordering constraints* and no conflicts with the **causal links**.  
+A plan in which there are no cycles in the *ordering constraints* and no conflicts with the **causal links**.
 
 ## constraint language
 ## constraint learning
@@ -467,7 +471,7 @@ A mathematical term which basically means merging two signals to form a third si
 # D
 ## DARPA Grand Challenge
 
-The DARPA Grand Challenge is a prize competition for American Autonomous Vehicles,funded by the **Defense Advanced Research Projects Agency**,the most prominent research organization of the United States Department of Defense.   
+The DARPA Grand Challenge is a prize competition for American Autonomous Vehicles,funded by the **Defense Advanced Research Projects Agency**,the most prominent research organization of the United States Department of Defense.
 
 ## data association
 ## data complexity
@@ -501,7 +505,7 @@ A decision tree is a construct that uses a tree like graph or model of decisions
 
 Going from a known
 general rule to a new rule that is logically entailed (and thus nothing new), but is nevertheless useful
-because it allows more efficient processing.  
+because it allows more efficient processing.
 
 ## deep belief networks
 ## deep learning
@@ -1176,7 +1180,7 @@ An agent's **percept sequence** is the complete history of everything the agent 
 ## precedence constraints
 ## precision
 
-**Precision** is a performance measure often used to describe some model, alongside other measures like *accuracy*, *recall* etc. Precision can be thought of as an efficiency measure of a model. It is given as:  
+**Precision** is a performance measure often used to describe some model, alongside other measures like *accuracy*, *recall* etc. Precision can be thought of as an efficiency measure of a model. It is given as:
 ***Precision = True Positives / (True Positives + False Positives)***
 
 ## precondition
