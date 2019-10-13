@@ -416,6 +416,9 @@ It is a branch of Psychology which deals with the mental processes involved in o
 ## conjunctive normal form
 ## connectionist
 ## consciousness
+
+The state of being awake and aware of one's surroundings.
+
 ## consequentialism
 ## consistency
 ## consistent
