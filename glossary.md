@@ -126,6 +126,8 @@ In propositional logic, conjunction elimination (also called and elimination, âˆ
 
 ## AND-parallelism
 
+In parallel logic programming, AND-parallelism is one of the two types of of parallelism. In AND-parallelism, the portions of conjunctive goal are pursued in parallel.
+
 ## angelic nondeterminism
 
 A notional ability always to choose the most favorable option, in constant time. With angelic non-determinism, any problem in NP would be solvable in polynomial time.
@@ -282,6 +284,9 @@ Beam search is a heuristic search algorithm that explores a graph by expanding t
 Benchmarking is to measure the quality of something for the purposes of comparison or evaluation.
 
 ## best-first search
+
+Best-first search is a search technique of combining the advantages of both depth-first and breadth-first into a single search.
+ 
 ## biconditional
 ## binary constraint
 ## binary resolution
@@ -289,6 +294,9 @@ Benchmarking is to measure the quality of something for the purposes of comparis
 ## binocular stereopsis
 ## biological naturalism
 ## blocks world
+
+Blocks world is an example domainin which there is a flat surface on which blocks can be placed .There are anumber of square blocks, all of same size. They can be stacked upon one another. There is a robotic arm that can manipulate the blocks.
+
 ## bluff
 ## body
 ## boid
