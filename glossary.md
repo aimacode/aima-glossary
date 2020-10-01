@@ -572,6 +572,13 @@ A method of solving complex problems by breaking them down to sub-problems that 
 # E
 
 ## early stopping
+
+In statistical mahine learning, **early stopping** is a regularization
+technique used to stop overfitting the training data sequence in iterative
+methods of learning. Early stopping checks if improving the fit of the learner
+to the data sequence is at the expense of increase in generalization error and
+stops the learning once this happens.
+
 ## economy
 ## effect
 ## effective branching factor
