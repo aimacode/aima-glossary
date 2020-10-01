@@ -896,7 +896,13 @@ performance after making observations about the world.
 ## line search
 ## linear Gaussian
 ## linear interpolation smoothing
+
 ## linear programming
+
+**Linear programming** is a linear optimzation method whose goal 
+is to maximize the objective for a mathematical model that is subject
+to some linear constraints.
+
 ## linear regression
 ## linear resolution
 ## linear separator
