@@ -898,6 +898,10 @@ performance after making observations about the world.
 ## linear interpolation smoothing
 ## linear programming
 ## linear regression
+
+**Linear regression** is a statistical method of modelling the relationship between
+a scalar dependant variable and one or more independant varibales linearly.
+
 ## linear resolution
 ## linear separator
 ## linkage constraints
