@@ -889,7 +889,13 @@ performance after making observations about the world.
 ## leveled off
 ## lexical category
 ## lexicon
+
 ## LIFO queue
+
+**LIFO queue** or Last-In-First-Out is a special type of queue where the
+last element inserted in the queue is the first to be ejected out of the 
+queue, similar to a stack.
+
 ## lifting lemma
 ## likelihood
 ## likelihood weighting
